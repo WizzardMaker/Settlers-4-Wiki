@@ -13,9 +13,9 @@ Wenn ihr nun ein Gebäude setzt, wird dabei wie folgt vorgegangen:
    \-> Wenn eure einzigen freien Planierer am anderen Ende eurer Siedler sind, laufen die Planierer auch durchaus erstmal einige Minuten, bevor sie am Gebäude ankommen. Selbst wenn direkt neben der neuen Baustelle, kurz nachdem die angeforderten Planierer loslaufen, neue Planierer frei werden, übernehmen diese den Job von den bereits angeforderten Planierern nicht.&#x20;
 3. Ab einem gewissen Planierungsgrad fordert die Baustelle nun ihre Rohstoffe an, die sie für die Errichtung benötigt. Hierbei werden jedoch maximal 8 Rohstoffe von jeder Ressource auf einmal angefordert.\
    \-> Gebäude die mehr als 8 Rohstoffe eines Typs verlangen, müssen daher zweimal diese Rohstoffe anfordern. Daher dauert beispielsweise die Errichtung von großen Wohnhäusern überhaupt so lange.
-4. Ein freier Träger schnappt sich euren Queueauftrag und bringt eine Ressource zur Baustelle. \
+4. Ein freier Träger schnappt sich euren Auftrag und bringt eine Ressource zur Baustelle. \
    \-> Bevorzugt werden hier Träger/Rohstoffe genommen, die nah an der Baustelle sind. Daher ist es durchaus ratsam neue Wohnhäuser zwischen alten abgerissen zu errichten, da diese Rohstoffe quasi direkt für die neuen verwendet werden können.&#x20;
-5. Sobald die erste Ressource an eurer Baustelle ist, wird ein neuer Auftrag für die Bauarbeiter erstellt. Ähnlich wie bei den Planierer nehmen nun freie Bauarbeiter diesen Auftrag an. \
+5. Sobald die erste Ressource an eurer Baustelle ist, wird ein neuer Auftrag für die Bauarbeiter erstellt. Ähnlich wie bei den Planierern nehmen nun freie Bauarbeiter diesen Auftrag an. \
    \-> Die Reihenfolge der Aufträge spielt hierbei für die Bauarbeiter/Planierer keine Rolle welchen Sie zuerst annehmen. Es wird hierbei lediglich der am wenigsten entferne Bauplatz bevorzugt.&#x20;
 6. Eure Baustelle gibt Bauarbeiter wieder frei, wenn keine Rohstoffe mehr dran liegen. Entweder ist die Baustelle dann fertig, oder muss noch mit weiteren beliefert werden. Eure Bauarbeiter können jedoch dann wieder einen anderen Auftrag abarbeiten, wodurch sie sich im Zweifel auch von dem dringend benötigtem Wohnhaus wieder weg bewegen.&#x20;
 
