@@ -40,7 +40,7 @@ Wird von euren Siedler geschaffen, wenn diese regelmäßig über existierende st
 
 ### Wüste
 
-Nur die Mayas können hierdrauf bauen. Dient in erster Linie der Manaproduktion der Mayas und kann nur von den Wikingern in normales Grad umgewandelt werden mit einem Priester
+Nur die Mayas & Trojaner können hierdrauf bauen. Dient in erster Linie der Manaproduktion der Mayas und kann nur von den Wikingern in normales Grad umgewandelt werden mit einem Priester
 
 ![](../.gitbook/assets/wüste.png)
 
@@ -58,7 +58,7 @@ Ein unpässliches Gebiet für alle Siedler & Soldaten. Lediglich Römer können 
 
 ### Schlamm
 
-Ein Gebiet welches eure Siedler zwar durchqueren können, jedoch nur mit halbierter Geschwindigkeit. Der Trojaner hat hier jedoch keinen Geschwindigkeitsmalus und kann als einziges Volk auf Schlamm bauen. Daher können seine Priester Gras auch in Schlamm verwandeln.&#x20;
+Ein Gebiet welches eure Siedler zwar durchqueren können, jedoch nur mit halbierter Geschwindigkeit. Der Trojaner hat hier jedoch keinen Geschwindigkeitsmalus und kann als einziges Volk neben den Wikingern auf Schlamm bauen. Daher können seine Priester Gras auch in Schlamm verwandeln.&#x20;
 
 ![](../.gitbook/assets/schlamm.png)
 
