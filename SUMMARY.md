@@ -3,7 +3,7 @@
 ## Grundlagen
 
 * [Abbreviations](README.md)
-* [Baustellenpriorität](grundlagen/baustellenprioritaet.md)
+* [Buildsite priority](grundlagen/buildsite-priority.md)
 * [Arbeitsradius](grundlagen/arbeitsradius.md)
 * [Terrain und Straßen](grundlagen/terrain-und-strassen.md)
 
