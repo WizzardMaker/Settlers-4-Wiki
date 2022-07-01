@@ -55,3 +55,13 @@ Die Baukosten können je nach verwendeter [UBO Version](../multiplayer/ultimate-
 ![](../.gitbook/assets/Zielmine.png)
 
 Der Zauber sollte auf die markierte Stelle angewendet werden. Da sich die Steinmine, die  zum „zielen“ verwendet bei allen hier aufgelisteten Batterien an der gleichen Stelle befindet,  gilt das für alle fünf Batterien nicht nur für die im Bild abgebildete 6/3er. Bei unebenem  Terrain kann sich der Punkt ein wenig verschieben.
+
+Eine weitere Möglichkeit, den späteren Zauberpunkt beim Bau zu ermitteln ist, bei der Platzierung der zentralen Steinmine darauf zu achten, wo sich der Baupunkt zwei Schritte in Richtung oben links befindet.
+
+![Purple: Mine Hotspot. The yellow spot is located two steps to the upper left, and is the magic spot for this battery.](<../.gitbook/assets/9er Batterie Zauberpunkt edited.png>)
+
+## Weitere Tipps
+
+Bei allen Batterietypen ist es wichtig, dass die beiden Schwefelminen, die den Anfang bilden, perfekt parallel ausgerichtet sind. Dies ist aber selbst bei unebenen Gelände leicht zu erreichen. Wenn die erste Schwefelmine platziert ist, wird, sobald die nächste ausgewählt ist, ein Sechseck aus Baupunkten um die erste sichtbar, mit einer erkennbaren Falz an beiden Seiten. Wenn wir die zweite Mine rechts von der ersten errichten wollen, bewegen wir uns von der rechten Falz zwei Schritte nach links unten. Wenn wir die zweite Mine links errichten wollen, bewegen wir uns von der linken Falz zwei Schritte nach rechts oben.
+
+![](<../.gitbook/assets/9er Batterie Schwefelfalz.png>)
