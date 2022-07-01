@@ -6,7 +6,7 @@ Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDC
 
 ## Was ist Settlers United?
 
-Settlers United ist ein Cummity Projekt von Entwicklern aus der S3 und S4 Scene, die den Wunsch haben die beiden Communitys eine gemeinsame Plattform für ihre Siedelleidenschaft zu geben. Ursprünglich wurde das Projekt Im Sommer 2021 gegen Ende der SiedlerIV Weltmeisterschaft gegründet und hat sich seitdem zu einem der größten Fanprojekte in der Siedlerwelt heutzutage entwickelt.&#x20;
+Settlers United ist ein Community Projekt von Entwicklern aus der S3 und S4 Scene, die den Wunsch haben die beiden Communitys eine gemeinsame Plattform für ihre Siedelleidenschaft zu geben. Ursprünglich wurde das Projekt Im Sommer 2021 gegen Ende der SiedlerIV Weltmeisterschaft gegründet und hat sich seitdem zu einem der größten Fanprojekte in der Siedlerwelt heutzutage entwickelt.&#x20;
 
 ## Was bietet Settlers United?
 
