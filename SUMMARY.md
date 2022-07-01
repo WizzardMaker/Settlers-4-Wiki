@@ -3,8 +3,8 @@
 ## Grundlagen
 
 * [Abbreviations](README.md)
-* [Buildsite priority](grundlagen/buildsite-priority.md)
-* [Arbeitsradius](grundlagen/arbeitsradius.md)
+* [Buildsite priority](grundlagen/baustellenprioritaet.md)
+* [Working radius](grundlagen/working-radius.md)
 * [Terrain und Straßen](grundlagen/terrain-und-strassen.md)
 
 ## Multiplayer
