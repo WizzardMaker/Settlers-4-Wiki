@@ -4,12 +4,12 @@ description: by UltimateSpinDash
 
 # Ultimate Balance Overhaul
 
-Der Ultimate Balance Overhaul - kurz UBO genannt - ist eine Erweiterung von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA) mit dem Ziel Siedler IV ausgeglichener zwischen den Völkern zu gestalten. Alle Informationen über Änderungen im Detail findet ihr hier: [https://settlers-united.com/de/features\_s4\_ubo/](https://settlers-united.com/de/features\_s4\_ubo/)
+The Ultimate Balance Overhaul - UBO for short - is a balance mod by [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA) with the goal to make the game more balanced between the four civilizations. All details on the changes made by UBO can be found here: [https://settlers-united.com/en/changelog/](https://settlers-united.com/en/changelog/)
 
 {% embed url="https://www.youtube.com/watch?v=L2EqcWOE_qw" %}
-Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
+Video by [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=rcSYC66QTW4" %}
-Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
+Video by [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
 {% endembed %}
