@@ -8,7 +8,9 @@ Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDC
 
 * Legt den Arbeitsradius eurer Gtreidefarmen an die "Haustür" eures Farmers. Je nach Volk profitiert ihr hier unterschiedlich stark von der Umlegung. Unbedingt zu empfehlen ist dies bei **Trojaners & Mayas**, wohingegen die Unterschiede bei Römern und Wikinger nur minimal sind.&#x20;
 * Beachtet bei Steinmetzen ebenfalls die Tür eures Arbeiters - ist diese nach links ausgerichtet, so arbeitet er am effektivsten wenn der Stein links von ihm ist.&#x20;
-* Trojaner sollten unbedingt den Arbeitsradius ihrer Sonnenblumenfarm anpassen und diesen ebenfalls an die "Haustür" verlegen. Diese profitiert sehr stark von der Optimierung.&#x20;
+* Trojaner sollten unbedingt den Arbeitsradius ihrer Sonnenblumenfarm anpassen und diesen ebenfalls an die "Haustür" verlegen. Diese profitiert sehr stark von der Optimierung.
+
+![Idealer Arbeitsbereich für Sonnenblumenfarmen, bereitgestellt von Laable](<../.gitbook/assets/trojan sunflower farm work radius.png>)
 
 ## Das schnelle Anpassen mehrerer Gebäude
 
