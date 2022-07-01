@@ -1,28 +1,26 @@
-# Abkürzungen
+# Abbreviations
 
-Im Siedler4 Terminus werden einige Abkürzungen verwendet, die für außenstehende auf dem ersten Blick unverständlich sind. Daher findet ihr hier eine kleine Liste der beliebtesten Abkürzungen
+Settlers IV terminology contains several abbreviations which can be unclear to outsiders. This is a list of the most popular abbreviations used by players.
 
 ## PT / PeaceTime
 
-Üblicherweise wird eine Friedenszeit vorgegeben in Multiplayer spielen. \
-Innerhalb der PT Zeit sind keinerlei Kriegerische Handlung erlaubt. Ausgenommen hiervon ist die Nutzung von Dieben. Sehr häufig gibt es zudem eine zweite PT Zeit, die explizit sich an Sabos & Gegnerische Landeinnahme (Tower/Pioniere) richtet.&#x20;
+In multiplayer matches, it is common to designate a peacetime during which no player may take hostile action against another. An explicit exception are usually thieves. Often, a second peacetime restricts the use of saboteurs and expansion into enemy settlements or over the mirror axis of the map.
 
-## Metzel
+## Metzel ("Carnage")
 
-Als Metzel werden Karten bezeichnet, auf denen es keine Fläche gibt die planiert werden müssen. Sprich ihr könnt euch hier die Planierer komplett sparen! Üblicherweise werden Metzelkarten mit einer PT von 60 gespielt, wobei die Soldatenmenge sehr variiert zwischen den einzelnen Karten. Im Metzel sind alle Rohstoffvorkommen und sonstige Ressourcen mit mehr als ausrechender Menge vorhanden. Die Kunst ist es, dieses Übermaß an Rohstoffen gewinnbringend in Soldaten zu verwandeln.&#x20;
+Maps are referred to as Metzel-Maps if there is no area that needs to be prepared by diggers prior to building. Exceptions are things designated hills to allow roman players to produce wine. Aside from such exceptions, no diggers are needed at all! Additionally, mountains contain the highest possible amounts of resources, allowing mines to function at their full capacity, and resources in general are abundant. The art of this gamemode is to turn this abundance into soldiers in the most efficient manner possible. Metzel is usually played with a peacetime of 60 minutes.&#x20;
 
-## Buddel
+## Buddel ("Dig")
 
-Buddelkarten fristen (leider) ein gewisses Nischendasein in Siedler, werden aber immer noch regelmäßig von einigen Leuten gespielt. Hier startet ihr in der Regel mit einem HG Bausatz und versucht euch auf einer gegebenen kleinen Karte so zeiteffizient wie möglich aufzubauen. Dabei müsst íhr wie im normalen Spiel Planierer und Bauarbeiter ausbilden, habt aber ähnlich wie auf einer Metzel viele Rohstoffe in den Bergen. \
-Üblicherweise werden diese Karten mit einer PT von 45 gespielt, wobei ab PT75 Sabos explizit erlaubt sind.&#x20;
+Buddel-maps are a niche similar to Metzel. Unlike Metzel, Diggers are required to construct buildings, and maps tend to be more compact. The usual peacetime for this mode is 45 minutes, with saboteurs often being allowed after 75 minutes.
 
-## HGHG & HGLG - Zufallskarten
+## HGHG & HGLG - Random maps
 
-Die Abkürzungen HGHG und HGLG stehen für unterschiedliche Arten von Zufallskarten. Dabei steht HG für "High Goods" und LG für "Low Goods". Der erste Teil bezeichnet hier die Rohstoffe, die ihr in den Bergen finden, wohingegen der zweite euren Startbausatz bezeichnen.&#x20;
+The abbreviations HGHG and HGLG refer to two different kinds of random maps. HG stands for "high goods" and LG for "low goods". The first part of the abbreviation concerns the amount of resources found on the map, while the second refers to the amount of goods each player starts with.&#x20;
 
-**HGLG**: Viele Bodenschätze und wenig Rohstoffe \
-**HGHG**: Viele Bodenschätze und viele Rohstoff
+**HGLG**: High resources and low starting goods \
+**HGHG**: High resources and high starting goods
 
-Aktuell ist HGHG der meistgespielte Modus in Siedler IV und wird üblicherweise mit einer PT von 60 gespielt. Wenn ihr hier mehr über die verschiedensten Aufbauarten erfahren wollt, kann ich euch die [Videoserie "Watch the PRO" von PJ](multiplayer/einstieg-in-s4-multiplayer.md) empfehlen
+Currently, HGHG is the most played gamemode found in Settlers IV, usually played with a peacetime of 60 minutes (HGHG60).&#x20;
 
-HGLG ist ähnlich wie Buddel derzeitig eine Nische in Siedler4, die nach wie vor von Einigen gerne gespielt wird. Hier ist eine PT von 90 durchaus üblich, und generell ist die Spielzeit hier deutlich höher als in den anderen Maparten. Dementsprechend langsam ist jedoch der Aufbau, und ihr solltet euch hier definitiv Hilfe holen von einem erfahrenen Spieler.&#x20;
+HGLG is more of a niche which is preferred by a dedicated group of players, here, a peacetime of 90 minutes is more commonly used (HGLG90). In general, HGLG is a slower experience due to the slower start.&#x20;
