@@ -17,7 +17,7 @@ If a building is placed, the game does the following:
    \-> The order in which buildings are placed has no bearing on the order in which diggers/builders who finish their current assignment will work on pending build sites. The closest build site is prioritized.
 6. The build site will release it's builders once there are no more resources at the build site. Either because the building is finished or because more materials are needed. This can result in breaks during which builders might move away from more important build sites.
 
-This is a simplified explanation. Queue behavior is also affected if [Transport+/Coalfix](../multiplayer/transport+-coalbug-fix.md) is activated.&#x20;
+This is a simplified explanation. Queue behavior is also affected if [Transport+/Coalfix](../multiplayer/transport+-kohlebug-fix.md) is activated.&#x20;
 
 ## How does the priority button change this?
 

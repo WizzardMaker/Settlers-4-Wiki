@@ -12,13 +12,13 @@
 * [Getting started in S4 Multiplayer](multiplayer/getting-started-in-s4-multiplayer.md)
 * [Settlers United](multiplayer/settlers-united.md)
 * [Ultimate Balance Overhaul](multiplayer/ultimate-balance-overhaul.md)
-* [Transport+ / "Coalbug"fix](multiplayer/transport+-coalbug-fix.md)
+* [Transport+ / "Coalbug"fix](multiplayer/transport+-kohlebug-fix.md)
 
 ## Tipps und Tricks
 
-* [Towerradii](tipps-und-tricks/towerradii.md)
+* [Towerradii](tipps-und-tricks/turmradius.md)
 * [Minenmechanik](tipps-und-tricks/minenmechanik.md)
-* [Punkteformel der Endstatistik](tipps-und-tricks/punkteformel-der-endstatistik.md)
+* [Score formula for the final statistic](tipps-und-tricks/score-formula-for-the-final-statistic.md)
 * [Troja: 9er Batterie](tipps-und-tricks/troja-9er-batterie.md)
 * [S4Editor+](tipps-und-tricks/s4editor+.md)
 
