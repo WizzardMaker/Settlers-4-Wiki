@@ -9,7 +9,7 @@
 
 ## Multiplayer
 
-* [Einstieg in S4 Multiplayer](multiplayer/einstieg-in-s4-multiplayer.md)
+* [Getting started in S4 Multiplayer](multiplayer/getting-started-in-s4-multiplayer.md)
 * [Settlers United](multiplayer/settlers-united.md)
 * [Ultimate Balance Overhaul](multiplayer/ultimate-balance-overhaul.md)
 * [Transport+ / "Kohlebug"fix](multiplayer/transport+-kohlebug-fix.md)
