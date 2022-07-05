@@ -2,12 +2,13 @@
 
 BILDER
 
-| Attribut   | Wert |
-| ---------- | ---- |
-| Gesundheit |      |
-| Schaden    |      |
-| Reichweite |      |
-| Rüstung    |      |
+| Attribut         | Wert |
+| ---------------- | ---- |
+| Gesundheit       |      |
+| Schaden          |      |
+| Reichweite       |      |
+| Rüstung          |      |
+| Kompatible Buffs |      |
 
 ### Überblick
 
