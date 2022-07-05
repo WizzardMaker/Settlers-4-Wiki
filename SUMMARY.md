@@ -17,7 +17,7 @@
 ## Tipps und Tricks
 
 * [Towerradii](tipps-und-tricks/turmradius.md)
-* [Minenmechanik](tipps-und-tricks/minenmechanik.md)
+* [Mining mechanics](tipps-und-tricks/mining-mechanics.md)
 * [Score formula for the final statistic](tipps-und-tricks/score-formula-for-the-final-statistic.md)
 * [Trojan 9-Mine-Battery](tipps-und-tricks/troja-9er-batterie.md)
 * [S4Editor+](tipps-und-tricks/s4editor+.md)
