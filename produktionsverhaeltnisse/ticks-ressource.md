@@ -4,13 +4,13 @@ description: by Phottor
 
 # Ticks/Ressource
 
-Gibt an, wie viele Ticks ein Arbeitsgang des Gebäudes braucht, also wie lange für eine Ressource \[845Ticks=1min] benötigt wird.&#x20;
+This table denotes how many game ticks each building needs to produce on resource. 845 ticks equal one minute.
 
-**Rot = Römer**\
-**Grün = Wikinger**\
-**Gelb = Maya**\
-**Blau = Trojaner**\
-**Lila = Ubo Trojaner**
+**Red = Romans**\
+**Green = Vikings**\
+**Yellow = Mayans**\
+**Blue = Trojans**\
+**Purple = UBO Trojans**
 
 
 
