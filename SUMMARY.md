@@ -14,20 +14,20 @@
 * [Ultimate Balance Overhaul](multiplayer/ultimate-balance-overhaul.md)
 * [Transport+ / "Coalbug"fix](multiplayer/transport+-kohlebug-fix.md)
 
-## Tipps und Tricks
+## Tips and tricks
 
-* [Towerradii](tipps-und-tricks/turmradius.md)
-* [Mining mechanics](tipps-und-tricks/mining-mechanics.md)
-* [Score formula for the final statistic](tipps-und-tricks/score-formula-for-the-final-statistic.md)
-* [Trojan 9-Mine-Battery](tipps-und-tricks/troja-9er-batterie.md)
-* [S4Editor+](tipps-und-tricks/s4editor+.md)
+* [Towerradii](tips-and-tricks/towerradii.md)
+* [Mining mechanics](tips-and-tricks/mining-mechanics.md)
+* [Score formula for the final statistic](tips-and-tricks/score-formula-for-the-final-statistic.md)
+* [Trojan 9-Mine-Battery](tips-and-tricks/trojan-9-mine-battery.md)
+* [S4Editor+](tips-and-tricks/s4editor+.md)
 
-## Kampfmechaniken
+## Combat mechanics
 
-* [Einheitenwerte](kampfmechaniken/einheitenwerte.md)
-* [Kampfkraftberechnung](kampfmechaniken/kampfkraftberechnung.md)
-* [Auswirkungen der Kampfkraft](kampfmechaniken/auswirkungen-der-kampfkraft.md)
-* [Attack Canceling](kampfmechaniken/attack-canceling.md)
+* [Unit stats](combat-mechanics/unit-stats.md)
+* [Kampfkraftberechnung](combat-mechanics/kampfkraftberechnung.md)
+* [Auswirkungen der Kampfkraft](combat-mechanics/auswirkungen-der-kampfkraft.md)
+* [Attack Canceling](combat-mechanics/attack-canceling.md)
 
 ## Produktionsverhältnisse
 
