@@ -2,15 +2,15 @@
 description: by Phottor
 ---
 
-# Ressource pro Minute
+# Resources per minute
 
-Gibt an, wie viele Ressourcen pro Minute verarbeitet werden.
+Denotes how many resources are processed per minute by each building.
 
-**Rot = Römer**\
-**Grün = Wikinger**\
-**Gelb = Maya**\
-**Blau = Trojaner**\
-**Lila = Ubo Trojaner**
+**Red = Romans**\
+**Green = Vikings**\
+**Yellow = Mayans**\
+**Blue = Trojans**\
+**Purple = UBO Trojans**
 
 
 

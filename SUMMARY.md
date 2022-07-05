@@ -37,4 +37,4 @@
 * [Metal industry](produktionsverhaeltnisse/schwerindustrie.md)
 * [Foodindustry](produktionsverhaeltnisse/nahrungsindustrie.md)
 * [Ticks/Ressource](produktionsverhaeltnisse/ticks-ressource.md)
-* [Ressource pro Minute](produktionsverhaeltnisse/ressource-pro-minute.md)
+* [Resources per minute](production-ratios/resources-per-minute.md)
