@@ -2,13 +2,13 @@
 description: by Phottor - ohne "Kohle" Bugfix/Transport+
 ---
 
-# HE Ausbau (2 zu 1 Gold)
+# HE Maximum Buildup (2:1 Gold)
 
-**Rot = Römer**\
-**Grün = Wikinger**\
-**Gelb = Maya**\
-**Blau = Trojaner**\
-**Lila = Ubo Trojaner**
+**Red = Romans**\
+**Green = Vikings**\
+**Yellow = Mayans**\
+**Blue = Trojans**\
+**Purple = UBO Trojans**
 
 {% tabs %}
 {% tab title="HGHG Random" %}
