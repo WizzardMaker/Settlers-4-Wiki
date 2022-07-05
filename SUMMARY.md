@@ -19,7 +19,7 @@
 * [Towerradii](tipps-und-tricks/turmradius.md)
 * [Minenmechanik](tipps-und-tricks/minenmechanik.md)
 * [Score formula for the final statistic](tipps-und-tricks/score-formula-for-the-final-statistic.md)
-* [Trojan 9-Mine-Battery](tipps-und-tricks/trojan-9-mine-battery.md)
+* [Trojan 9-Mine-Battery](tipps-und-tricks/troja-9er-batterie.md)
 * [S4Editor+](tipps-und-tricks/s4editor+.md)
 
 ## Kampfmechaniken

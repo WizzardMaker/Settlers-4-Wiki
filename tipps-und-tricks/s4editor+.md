@@ -1,14 +1,14 @@
 # S4Editor+
 
 {% embed url="https://www.youtube.com/watch?v=XmongY-LWeA" %}
-Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
+Video by [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
 {% endembed %}
 
-## Der Editor
+## The Editor
 
-Der Editor+ ist eine neue Version des S4 Karteneditors von MuffinMario. Der S4Editor+ öffnet den Mappern ein neues Tor in Sachen Mapping. Mit ihm kann man Maps trotz Fehlern exportieren, exportierte Maps (.map) öffnen und spezielle Objekte anderer Add-Ons platzieren!
+The Editor+ is a new version of the Settlers IV map editor, created by MuffinMario. The Editor+ lifts several restrictions of the vanilla editor, allowing mappers to open finished maps (.map), export maps with errors (which official maps also have - one such error would be having more than one Dark Tribe present) and place objects from the New World expansion.
 
-Der S4Editor+ ist direkt mit in [Settlers United](../multiplayer/settlers-united.md) integriert.
+The Editor+ is integrated into [Settlers United](../multiplayer/settlers-united.md).
 
 {% file src="../.gitbook/assets/S4Editor_203.zip" %}
 
@@ -16,8 +16,6 @@ Der S4Editor+ ist direkt mit in [Settlers United](../multiplayer/settlers-united
 
 ## Scripts
 
-Zudem kommt der S4Editor+ mit dem Script Editor von MuffinMario, welches es euch ermöglicht ein Lua Script in eure Maps zu integrieren. [Mehr Informationen findet ihr hier](https://app.gitbook.com/s/d5pXI7LyTnJD2C1aSmcw/)
-
-{% file src="../.gitbook/assets/S4Editor_-_ScriptEditor.zip" %}
+Additionally, the Editor+ contains a script editor which allows embedding a lua script into your map, removing the need to attach a .txt file to the map download. [Further information on S4 scripting can be found here.](https://app.gitbook.com/s/auUjVOZHHg4G6b8lVuXs/tutorials/readme)
 
 ![](../.gitbook/assets/5ma8HFd.png)
