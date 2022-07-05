@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Welcome to the Settlers IV Wiki!](README.md)
+
 ## Grundlagen
 
-* [Abbreviations](README.md)
+* [Abbreviations](<README (1).md>)
 * [Buildsite priority](grundlagen/baustellenprioritaet.md)
 * [Working radius](grundlagen/arbeitsradius.md)
 * [Terrain and roads](grundlagen/terrain-und-strassen.md)
