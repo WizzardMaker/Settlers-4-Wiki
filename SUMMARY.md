@@ -16,18 +16,18 @@
 
 ## Tips and tricks
 
-* [Towerradii](tips-and-tricks/towerradii.md)
-* [Mining mechanics](tips-and-tricks/mining-mechanics.md)
-* [Score formula for the final statistic](tips-and-tricks/score-formula-for-the-final-statistic.md)
-* [Trojan 9-Mine-Battery](tips-and-tricks/trojan-9-mine-battery.md)
-* [S4Editor+](tips-and-tricks/s4editor+.md)
+* [Towerradii](tipps-und-tricks/turmradius.md)
+* [Mining mechanics](tipps-und-tricks/minenmechanik.md)
+* [Score formula for the final statistic](tipps-und-tricks/score-formula-for-the-final-statistic.md)
+* [Trojan 9-Mine-Battery](tipps-und-tricks/troja-9er-batterie.md)
+* [S4Editor+](tipps-und-tricks/s4editor+.md)
 
 ## Combat mechanics
 
-* [Unit stats](combat-mechanics/unit-stats.md)
-* [Kampfkraftberechnung](combat-mechanics/kampfkraftberechnung.md)
-* [Auswirkungen der Kampfkraft](combat-mechanics/auswirkungen-der-kampfkraft.md)
-* [Attack Canceling](combat-mechanics/attack-canceling.md)
+* [Unit stats](kampfmechaniken/einheitenwerte.md)
+* [Fighting strength calculationg](combat-mechanics/fighting-strength-calculationg.md)
+* [Auswirkungen der Kampfkraft](kampfmechaniken/auswirkungen-der-kampfkraft.md)
+* [Attack Canceling](kampfmechaniken/attack-canceling.md)
 
 ## Produktionsverhältnisse
 
