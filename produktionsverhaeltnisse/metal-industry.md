@@ -2,13 +2,13 @@
 description: by Phottor
 ---
 
-# Schwerindustrie
+# Metal industry
 
-**Rot = Römer**\
-**Grün = Wikinger**\
-**Gelb = Maya**\
-**Blau = Trojaner**\
-**Lila = Ubo Trojaner**
+**Red = Romans**\
+**Green = Vikings**\
+**Yellow = Mayans**\
+**Blue = Trojans**\
+**Purple = UBO Trojans**
 
 ****
 

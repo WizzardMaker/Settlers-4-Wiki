@@ -34,7 +34,7 @@
 ## Produktionsverhältnisse
 
 * [HE Maximum Buildup (2:1 Gold)](produktionsverhaeltnisse/he-maximum-buildup-2-1-gold.md)
-* [Schwerindustrie](produktionsverhaeltnisse/schwerindustrie.md)
+* [Metal industry](produktionsverhaeltnisse/metal-industry.md)
 * [Nahrungsindustrie](produktionsverhaeltnisse/nahrungsindustrie.md)
 * [Ticks/Ressource](produktionsverhaeltnisse/ticks-ressource.md)
 * [Ressource pro Minute](produktionsverhaeltnisse/ressource-pro-minute.md)
