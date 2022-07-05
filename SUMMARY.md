@@ -28,7 +28,7 @@
 
 * [Unit stats](kampfmechaniken/einheitenwerte.md)
 * [Fighting strength calculationg](combat-mechanics/fighting-strength-calculationg.md)
-* [Auswirkungen der Kampfkraft](kampfmechaniken/auswirkungen-der-kampfkraft.md)
+* [Effects of Fighting Strength](combat-mechanics/effects-of-fighting-strength.md)
 * [Attack Canceling](kampfmechaniken/attack-canceling.md)
 
 ## Production Ratios
@@ -37,4 +37,4 @@
 * [Metal industry](produktionsverhaeltnisse/schwerindustrie.md)
 * [Foodindustry](produktionsverhaeltnisse/nahrungsindustrie.md)
 * [Ticks/Ressource](produktionsverhaeltnisse/ticks-ressource.md)
-* [Resources per minute](production-ratios/resources-per-minute.md)
+* [Resources per minute](produktionsverhaeltnisse/ressource-pro-minute.md)
