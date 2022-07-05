@@ -9,6 +9,14 @@
 * [Arbeitsradius](grundlagen/arbeitsradius.md)
 * [Terrain und Straßen](grundlagen/terrain-und-strassen.md)
 
+## Einheiten
+
+* [Schwertkämpfer](einheiten/schwertkaempfer.md)
+
+***
+
+* [Page 1](page-1.md)
+
 ## Multiplayer
 
 * [Einstieg in S4 Multiplayer](multiplayer/einstieg-in-s4-multiplayer.md)
