@@ -8,7 +8,7 @@ Video by [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCf
 
 Settlers III and IV were developed and released at a time when most CPUs clocked in around 500Mhz or even lower. To avoid putting to much stress on this hardware, the developers put a limit on the amount of goods of each type could be requested for various tasks in the settlement simultaneously.&#x20;
 
-Internally, the game works with so called "Ticks" - 14 ticks are processed each second. The original limit saw each good being requested once every 16 ticks. This resulted in up to 52 units of each type that could be requested each minute. Exceptions were made for building materials and coal, which can request twice as many items. This is resulted in what is known as the [HE build](../produktionsverhaeltnisse/he-maximum-buildup-2-1-gold.md), which is optimized to create as many L3 soldiers as possible within these limitations.
+Internally, the game works with so called "Ticks" - 14 ticks are processed each second. The original limit saw each good being requested once every 16 ticks. This resulted in up to 52 units of each type that could be requested each minute. Exceptions were made for building materials and coal, which can request twice as many items. This is resulted in what is known as the [HE build](../production-ratios/he-maximum-buildup-2-1-gold.md), which is optimized to create as many L3 soldiers as possible within these limitations.
 
 ## The actual fix
 

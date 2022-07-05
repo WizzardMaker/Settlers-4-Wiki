@@ -2,15 +2,15 @@
 description: by Phottor
 ---
 
-# Nahrungsindustrie
+# Foodindustry
 
-**Rot = Römer**\
-**Grün = Wikinger**\
-**Gelb = Maya**\
-**Blau = Trojaner**\
-**Lila = Ubo Trojaner**
+**Red = Romans**\
+**Green = Viking**\
+**Yellow = Mayans**\
+**Blue = Trojans**\
+**Purple = UBO Trojans**
 
-## Nahrungsindustrie Allgemein
+## Food industry overall
 
 {% tabs %}
 {% tab title="HGHG Random" %}
@@ -22,7 +22,7 @@ description: by Phottor
 {% endtab %}
 {% endtabs %}
 
-## Brotindutrie
+## Bread production
 
 {% tabs %}
 {% tab title="HGHG Random" %}
@@ -34,7 +34,7 @@ description: by Phottor
 {% endtab %}
 {% endtabs %}
 
-## **Fleischindsutrie**
+## **Meat production**
 
 {% tabs %}
 {% tab title="HGHG Random" %}

@@ -31,10 +31,10 @@
 * [Auswirkungen der Kampfkraft](kampfmechaniken/auswirkungen-der-kampfkraft.md)
 * [Attack Canceling](kampfmechaniken/attack-canceling.md)
 
-## Produktionsverhältnisse
+## Production Ratios
 
-* [HE Maximum Buildup (2:1 Gold)](produktionsverhaeltnisse/he-maximum-buildup-2-1-gold.md)
-* [Metal industry](produktionsverhaeltnisse/metal-industry.md)
-* [Nahrungsindustrie](produktionsverhaeltnisse/nahrungsindustrie.md)
-* [Ticks/Ressource](produktionsverhaeltnisse/ticks-ressource.md)
-* [Ressource pro Minute](produktionsverhaeltnisse/ressource-pro-minute.md)
+* [HE Maximum Buildup (2:1 Gold)](production-ratios/he-maximum-buildup-2-1-gold.md)
+* [Metal industry](production-ratios/metal-industry.md)
+* [Foodindustry](production-ratios/foodindustry.md)
+* [Ticks/Ressource](production-ratios/ticks-ressource.md)
+* [Ressource pro Minute](production-ratios/ressource-pro-minute.md)
