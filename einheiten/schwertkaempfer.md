@@ -1,6 +1,6 @@
 # Schwertkämpfer
 
-BILDER
+![Alle Schwertkämpfer aller Völker](../.gitbook/assets/Schwertkämpferlineup.png)
 
 | Attribut                | Wert (L1 \| L2 \| L3 \| DV) |
 | ----------------------- | --------------------------- |
