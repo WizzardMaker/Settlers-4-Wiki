@@ -2,15 +2,13 @@
 
 BILDER
 
-| Attribut                | Wert |
-| ----------------------- | ---- |
-| Gesundheit              |      |
-| Schaden                 |      |
-| Angriffsgeschwindigkeit |      |
-| DPS                     |      |
-| Reichweite              |      |
-| Rüstung                 |      |
-| Kompatible Buffs        |      |
+| Attribut         | Wert |
+| ---------------- | ---- |
+| Gesundheit       |      |
+| Schaden          |      |
+| Reichweite       |      |
+| Rüstung          |      |
+| Kompatible Buffs |      |
 
 ### Überblick
 
