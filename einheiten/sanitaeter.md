@@ -12,6 +12,16 @@
 | Rüstung                 | 0                                                |
 | Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
 
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### Überblick
 
 Schwertkämpfer sind eine der Kerneinheiten des Spiels die sich alle Völker teilen. Sie sind die einzige Einheit, die Türme erobern kann (mit Ausnahme des dunklen Volks, welches die Türme zerstört), und zeichnen sich ihre hohe Gesundheit und hohen Angriffsschaden aus.
