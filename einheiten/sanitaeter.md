@@ -48,3 +48,7 @@ Feindliche Sanitäter sind Prioritätsziele, da ein Sieg des Gegners durch sie n
 
 * Sanitäter sind die einzige Spezialeinheit, die keine eigene Ware erfordert, sondern das Schwert mitnutzt. Allerdings gibt es in den Spieldateien Referenzen für einen Dolch, was darauf hindeutet, dass dies nicht immer geplant war. Ob der Dolch aus Zeitgründen der Schere zum Opfer fiel oder ob die Unterteilung die Römer zu unflexibel machte und die Hürde zur Rekrutierung von Sanitätern zusammen mit der restlichen Armee dadurch zu hoch war, ist nicht bekannt.
 * Sanitäter sind auch einzigartig in der Hinsicht, dass einer ihrer Werte direkt von defensiver Kampfkraft abhängt. Da Sanitäter als Lazarettersatz außerhalb der Siedlung dienen sollen, wurde dies wahrscheinlich entschieden, damit ihre Heilung nicht durch geringe Kampfkraft zu gering wird, um ins Gewicht zu fallen.
+
+{% embed url="https://www.youtube.com/watch?v=nQE_4UL-QNo" %}
+
+{% embed url="https://www.youtube.com/watch?v=sQDU8RK_WBM" %}
