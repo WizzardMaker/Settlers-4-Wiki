@@ -34,3 +34,4 @@ Der einzige hardcounter, der aber sehr kostspielig ist, ist der "Schützen Straf
 
 * Die Bogenschützen der Mayas, sowie die L3er der Trojaner, greifen einen Tick langsamer an. Dadurch sind sie etwa 5% schwächer als ihre Gegenstücke.
 * Die Bogenschützen des dunklen Volks liegen zwischen Level 1 und Level 2 ihrer Gegenstücke bei den anderen Völkern.
+* Bogenschützen sind die einzige Einheit, die Manakopter angreifen kann.
