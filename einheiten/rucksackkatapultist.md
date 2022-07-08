@@ -14,18 +14,6 @@
 | Rüstung                 | 0                                                |
 | Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
 {% endtab %}
-
-{% tab title="UBO" %}
-| Attribut                | Wert (L1 \| L2 \| L3)                            |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 30 \| 40 \| 45                                   |
-| Schaden                 | 8 \| 11 \| 13                                    |
-| Angriffsgeschwindigkeit | 30 Ticks                                         |
-| DPS                     | 3,7 \| 5,1 \| 6                                  |
-| Reichweite              | 8 Felder                                         |
-| Rüstung                 | 0                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
 {% endtabs %}
 
 ### Überblick

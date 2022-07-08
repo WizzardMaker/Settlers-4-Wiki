@@ -2,6 +2,8 @@
 
 ![Alle Hauptmänner aller Völker](../.gitbook/assets/Hauptmannlineup.png)
 
+{% tabs %}
+{% tab title="Vanilla" %}
 | Attribut                | Wert (DV)                                        |
 | ----------------------- | ------------------------------------------------ |
 | Gesundheit              | 215 (200)                                        |
@@ -11,6 +13,8 @@
 | Reichweite              | 1 Feld                                           |
 | Rüstung                 | 2                                                |
 | Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+{% endtab %}
+{% endtabs %}
 
 ### Überblick
 
