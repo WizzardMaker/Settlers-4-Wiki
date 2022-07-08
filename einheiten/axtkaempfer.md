@@ -9,7 +9,7 @@
 | Gesundheit              | 75 \| 120 \| 175                                 |
 | Schaden                 | 24 \| 28 \| 32                                   |
 | Angriffsgeschwindigkeit | 24 Ticks                                         |
-| DPS                     | 13,7 \| 16,1 \| 3,1                              |
+| DPS                     | 13,7 \| 16,1 \| 18,3                             |
 | Reichweite              | 2 Felder                                         |
 | Rüstung                 | 0                                                |
 | Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
@@ -18,12 +18,11 @@
 {% tab title="UBO" %}
 | Attribut                | Wert (L1 \| L2 \| L3)                            |
 | ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 50 \| 75 \| 100                                  |
-| Schaden                 | 10 \| 14 \| 20                                   |
-| Angriffsgeschwindigkeit | 28 Ticks                                         |
-| DPS                     | 5,2 \| 7,3 \| 10,48                              |
-| Reichweite              | 1 Feld                                           |
-| Heilung                 | 8 \| 12 \| 16                                    |
+| Gesundheit              | 100 \| 160 \| 240                                |
+| Schaden                 | 24 \| 28 \| 32                                   |
+| Angriffsgeschwindigkeit | 24 Ticks                                         |
+| DPS                     | 13,7 \| 16 \| 18,3                               |
+| Reichweite              | 2 Felder                                         |
 | Rüstung                 | 0                                                |
 | Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
 {% endtab %}
@@ -46,7 +45,7 @@ UBO erhöht die Gesundheit von Axtkämpfern, um sie besser in normale Armeen int
 ### Trivia
 
 * Wenn Axtkämpfer gegen Gebäude eingesetzt werden sollte bedacht werden, dass alle Gebäude, einschließlich Türme, fünf Rüstung besitzen.
-*
+* Axtkämpfer besitzen den höchsten Einzelzielschaden aller normalen Siedler im Spiel, mit 32 für Level 3 Soldaten. Dies kann mit maximaler Kampfkraft, dem Hauptmannbonus und Blutrausch auf bis zu 106 Schaden erhöht werden. Konkurrenz kommt jedoch vom Rucksackkatapultisten dank seines Flächenschadens.
 
 {% embed url="https://www.youtube.com/watch?v=En8Hv6alV_E" %}
 
