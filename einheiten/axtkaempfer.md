@@ -6,12 +6,11 @@
 {% tab title="Vanilla" %}
 | Attribut                | Wert (L1 \| L2 \| L3)                            |
 | ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 85 \| 120 \| 185                                 |
-| Schaden                 | 4 \| 5 \| 6                                      |
-| Angriffsgeschwindigkeit | 28 Ticks                                         |
-| DPS                     | 2,1 \| 2,6 \| 3,1                                |
-| Reichweite              | 1 Feld                                           |
-| Heilung                 | 3 \| 4 \| 5                                      |
+| Gesundheit              | 75 \| 120 \| 175                                 |
+| Schaden                 | 24 \| 28 \| 32                                   |
+| Angriffsgeschwindigkeit | 24 Ticks                                         |
+| DPS                     | 13,7 \| 16,1 \| 3,1                              |
+| Reichweite              | 2 Felder                                         |
 | Rüstung                 | 0                                                |
 | Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
 {% endtab %}
@@ -32,19 +31,23 @@
 
 ### Überblick
 
-Sanitäter sind die Spezialeinheit der Römer. Sie werden genau wie Schwertkämpfer ausgebildet, erfüllen aber eine völlig andere Rolle. Trotz ihrer hohen Gesundheit sind Sanitäter im direkten Kampf absolut wertlos, da ihr Schaden und ihre Angriffsgeschwindigkeit viel zu gering ist. Ihr wahres Talent liegt darin, andere Soldaten und Spezialisten zu heilen.
-
-Sanitäter können bis zu drei Mal kurz hintereinander heilen. Danach müssen sie sich einige Sekunden erholen. In ruhigen Zeiten können sie dann wieder bis zu drei Heilladungen ansammeln. Die Heilung skaliert dabei mit defensiver Kampfkraft, ist aber nicht von Zaubern wie Blutrausch betroffen.
+Axtkämpfer sind die Spezialeinheit der Wikinger. Sie sind Nahkämpfer ähnlich wie Schwertkämpfer, allerdings können sie Türme direkt angreifen und zerstören. Ihr Schaden pro Angriff ist höher, aber durch ihre langsamere Angriffsgeschwindigkeit sind ihre DPS-Zahlen trotzdem geringer. Ähnlich wie die Speerkämpfer in Siedler III können Axtkämpfer aber auch in zweiter Reihe kämpfen - das tun sie aber in der Regel nur in Kombination mit Schwertkämpfern, da Axtkämpfer nicht automatisch nah genug an feindliche Soldaten herangehen, um ihren Hintermann mithelfen zu lassen.
 
 ### Strategie
 
-Sanitäter sollten niemals direkt an Kampfhandlungen teilnehmen, sondern sich immer in den hintersten Reihen aufhalten oder als mobiles Lazarett eingesetzt werden, um überlebende Soldaten zwischen zwei Schlachten zu heilen. Auf diese Weise können sie den Wert einer Armee deutlich erhöhen, da sie ein vielfaches ihrer eigenen Kosten durch Heilung generieren können.&#x20;
+Axtkämpfer sind die Geißel jeder turmbasierten Verteidigung, da sie diese innerhalb von Sekunden einreißen können, wenn sie ihr Ziel erreichen. Da Türme in Multiplayermatches in der Regel streng limitiert sind, können Axtkämpfer aber ihre größte Stärke außerhalb des Einzelspielermodus nicht ausspielen. Im Infanteriekampf können Axtkämpfer zwar helfen, haben aber weniger anzubieten als Bogenschützen oder sogar Schwertkämpfer.
 
-Der Ultimate Balance Overhaul nimmt einige Änderungen an Sanitätern vor, um sie besser in ihrer Arbeit zu machen. Ihre Heilung wird auf allen Stufen etwa verdreifacht, und sie erhalten den gleichen Grundschaden wie ein Schwertkämpfer des gleichen Levels (mit halbierten DPS dank der längeren Angriffsanimation). Ihre Gesundheit sinkt aber auf etwa die hälfte eines gleichwertigen Schwertkämpfers. Das bedeutet auch, dass Sanitäter nun auf allen Stufen vom Blitzzauber der Römer getötet werden können.
+Durch ihre langsame Bewegungsgeschwindigkeit sind Axtkämpfer noch anfälliger für große Massen an Bogenschützen. Rucksackkatapultisten sind ebenfalls ein sehr effektiver Hardcounter.
 
-Feindliche Sanitäter sind Prioritätsziele, da ein Sieg des Gegners durch sie noch stärker ins Gewicht fällt. Wenn die Gelegenheit besteht, sollten sie immer neutralisiert werden.
+Theoretisch sind Level 1 Axtkämpfer ein Softcounter für gleichwertige Schwertkämpfer, in der Praxis finden solche Matchups aber nicht statt.
+
+UBO erhöht die Gesundheit von Axtkämpfern, um sie besser in normale Armeen integrierbar zu machen. Dadurch können sie gut mit Schwertkämpfern gemischt werden, wo sie ihre höhere Reichweite ausspielen können. Durch UBO werden aber auch Blasrohrschützen zu einer größeren Gefahr für Axtkämpfer, da sie nun die nötige Feuerkraft mitbringen, um Axtkämpfern ernsthaft zu Schaden.
 
 ### Trivia
 
-* Sanitäter sind die einzige Spezialeinheit, die keine eigene Ware erfordert, sondern das Schwert mitnutzt. Allerdings gibt es in den Spieldateien Referenzen für einen Dolch, was darauf hindeutet, dass dies nicht immer geplant war. Ob der Dolch aus Zeitgründen der Schere zum Opfer fiel oder ob die Unterteilung die Römer zu unflexibel machte und die Hürde zur Rekrutierung von Sanitätern zusammen mit der restlichen Armee dadurch zu hoch war, ist nicht bekannt.
-* Sanitäter sind auch einzigartig in der Hinsicht, dass einer ihrer Werte direkt von defensiver Kampfkraft abhängt. Da Sanitäter als Lazarettersatz außerhalb der Siedlung dienen sollen, wurde dies wahrscheinlich entschieden, damit ihre Heilung nicht durch geringe Kampfkraft zu gering wird, um ins Gewicht zu fallen.
+* Wenn Axtkämpfer gegen Gebäude eingesetzt werden sollte bedacht werden, dass alle Gebäude, einschließlich Türme, fünf Rüstung besitzen.
+*
+
+{% embed url="https://www.youtube.com/watch?v=En8Hv6alV_E" %}
+
+{% embed url="https://www.youtube.com/watch?v=sQDU8RK_WBM" %}
