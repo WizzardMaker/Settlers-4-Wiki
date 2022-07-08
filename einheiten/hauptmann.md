@@ -31,3 +31,5 @@ Jedes Volk hat Möglichkeiten, die Hauptmänner hardcountern können. Barbaren b
 * Obwohl sie Schwertkämpfern sehr ähneln, bewegen sich Hauptmänner genauso schnell wie Bogenschützen oder andere Einheiten und können weder Türme erobern noch besetzen.
 * Der Moralbonus ist verbuggt und gilt nur für Einheiten, die sich zur Zeit der Gruppenzuweisung oberhalb oder in der gleichen Felderreihe links vom Hauptmann befanden.
 * Von Frieden Stiften getroffene Hauptmänner lassen weder ihr Schwert noch ihre Rüstung fallen.
+
+{% embed url="https://www.youtube.com/watch?v=iBRSuLSFDiE" %}
