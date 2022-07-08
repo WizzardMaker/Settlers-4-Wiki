@@ -14,6 +14,7 @@
 * [Schwertkämpfer](einheiten/schwertkaempfer.md)
 * [Bogenschütze](einheiten/bogenschuetze.md)
 * [Hauptmann](einheiten/hauptmann.md)
+* [Sanitäter](einheiten/sanitaeter.md)
 
 ## Multiplayer
 
