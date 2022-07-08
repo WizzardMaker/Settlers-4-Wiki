@@ -12,6 +12,7 @@
 ## Einheiten
 
 * [Schwertkämpfer](einheiten/schwertkaempfer.md)
+* [Bogenschütze](einheiten/bogenschuetze.md)
 
 ## Multiplayer
 

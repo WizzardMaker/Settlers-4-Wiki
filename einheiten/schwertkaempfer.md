@@ -26,3 +26,5 @@ Mit UBO können auch Blasrohrschützen genug Feuerkraft beisteuern, um gegen Sch
 
 * Schwertkämpfer des dunklen Volks erobern Türme in der Praxis, dabei wird er aber sofort zerstört. Ein Nebeneffekt dessen ist, dass der erobernde Schwertkämpfer getötet wird.
 * Die L1 Schwertkämpfer der Wikinger schlagen einen Tick langsamer zu.
+* Der Schwertkämpfer des dunklen Volks liegt mit Gesundheit und Angriffsschaden zwischen einem Level 1 und einem Level 2 Schwertkämpfer der anderen Völker.
+* Der Schwertkämpfer des dunklen Volks hat mit 11 Ticks die schnellste Angriffsgeschwindigkeit aller Einheiten im Spiel.
