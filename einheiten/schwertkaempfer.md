@@ -2,6 +2,8 @@
 
 ![Alle Schwertkämpfer aller Völker](../.gitbook/assets/Schwertkämpferlineup.png)
 
+{% tabs %}
+{% tab title="Vanilla" %}
 | Attribut                | Wert (L1 \| L2 \| L3 \| DV)                      |
 | ----------------------- | ------------------------------------------------ |
 | Gesundheit              | 100 \| 150 \| 210 \| 120                         |
@@ -11,6 +13,8 @@
 | Reichweite              | 1 Feld                                           |
 | Rüstung                 | 0                                                |
 | Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+{% endtab %}
+{% endtabs %}
 
 ### Überblick
 

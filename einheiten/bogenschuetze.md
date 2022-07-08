@@ -2,6 +2,8 @@
 
 ![Alle Bogenschützen aller Völker](../.gitbook/assets/Bogenschützenlineup.png)
 
+{% tabs %}
+{% tab title="Vanilla" %}
 | Attribut                | Wert (L1 \| L2 \| L3 \| DV)          |
 | ----------------------- | ------------------------------------ |
 | Gesundheit              | 75 \| 120 \| 160 \| 100              |
@@ -11,6 +13,8 @@
 | Reichweite              | 10 Felder                            |
 | Rüstung                 | 0                                    |
 | Kompatible Buffs        | Schutzschild, Angriff aus dem Nichts |
+{% endtab %}
+{% endtabs %}
 
 ### Überblick
 
