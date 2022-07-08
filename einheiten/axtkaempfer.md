@@ -8,7 +8,7 @@
 | ----------------------- | ------------------------------------------------ |
 | Gesundheit              | 75 \| 120 \| 175                                 |
 | Schaden                 | 24 \| 28 \| 32                                   |
-| Angriffsgeschwindigkeit | 24 Ticks                                         |
+| Angriffsgeschwindigkeit | 25 Ticks                                         |
 | DPS                     | 13,7 \| 16,1 \| 18,3                             |
 | Reichweite              | 2 Felder                                         |
 | Rüstung                 | 0                                                |
@@ -20,7 +20,7 @@
 | ----------------------- | ------------------------------------------------ |
 | Gesundheit              | 100 \| 160 \| 240                                |
 | Schaden                 | 24 \| 28 \| 32                                   |
-| Angriffsgeschwindigkeit | 24 Ticks                                         |
+| Angriffsgeschwindigkeit | 25 Ticks                                         |
 | DPS                     | 13,7 \| 16 \| 18,3                               |
 | Reichweite              | 2 Felder                                         |
 | Rüstung                 | 0                                                |
