@@ -17,6 +17,7 @@
 * [Sanitäter](einheiten/sanitaeter.md)
 * [Axtkämpfer](einheiten/axtkaempfer.md)
 * [Blasrohrschütze](einheiten/blasrohrschuetze.md)
+* [Rucksackkatapultist](einheiten/rucksackkatapultist.md)
 
 ## Multiplayer
 
