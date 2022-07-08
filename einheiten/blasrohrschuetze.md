@@ -4,27 +4,29 @@
 
 {% tabs %}
 {% tab title="Vanilla" %}
-| Attribut                | Wert (L1 \| L2 \| L3)                            |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 85 \| 125 \| 190                                 |
-| Schaden                 | 3 \| 4 \| 5                                      |
-| Angriffsgeschwindigkeit | 23 Ticks                                         |
-| DPS                     | 1,8 \| 2,4 \| 3                                  |
-| Reichweite              | 5 Felder                                         |
-| Rüstung                 | 0                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+| Attribut                   | Wert (L1 \| L2 \| L3)                            |
+| -------------------------- | ------------------------------------------------ |
+| Gesundheit                 | 85 \| 125 \| 190                                 |
+| Schaden                    | 3 \| 4 \| 5                                      |
+| Angriffsgeschwindigkeit    | 23 Ticks                                         |
+| DPS                        | 1,8 \| 2,4 \| 3                                  |
+| Reichweite                 | 5 Felder                                         |
+| Lähmungswahrscheinlichkeit | \~50% / \~70% \| \~ 75-80%                       |
+| Rüstung                    | 0                                                |
+| Kompatible Buffs           | Schutzschild, Blutrausch, Angriff aus dem Nichts |
 {% endtab %}
 
 {% tab title="UBO" %}
-| Attribut                | Wert (L1 \| L2 \| L3)                            |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 85 \| 125 \| 190                                 |
-| Schaden                 | 6 \| 9 \| 12                                     |
-| Angriffsgeschwindigkeit | 23 Ticks                                         |
-| DPS                     | 3,6 \| 5,4 \| 7,2                                |
-| Reichweite              | 5 Felder                                         |
-| Rüstung                 | 0                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+| Attribut                   | Wert (L1 \| L2 \| L3)                            |
+| -------------------------- | ------------------------------------------------ |
+| Gesundheit                 | 85 \| 125 \| 190                                 |
+| Schaden                    | 6 \| 9 \| 12                                     |
+| Angriffsgeschwindigkeit    | 23 Ticks                                         |
+| DPS                        | 3,6 \| 5,4 \| 7,2                                |
+| Reichweite                 | 5 Felder                                         |
+| Lähmungswahrscheinlichkeit | \~50% \| \~70% \| \~75-80%                       |
+| Rüstung                    | 0                                                |
+| Kompatible Buffs           | Schutzschild, Blutrausch, Angriff aus dem Nichts |
 {% endtab %}
 {% endtabs %}
 
