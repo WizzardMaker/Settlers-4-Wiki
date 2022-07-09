@@ -18,6 +18,7 @@
 * [Axtkämpfer](einheiten/axtkaempfer.md)
 * [Blasrohrschütze](einheiten/blasrohrschuetze.md)
 * [Rucksackkatapultist](einheiten/rucksackkatapultist.md)
+* [Priester](einheiten/priester.md)
 
 ## Multiplayer
 
