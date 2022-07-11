@@ -4,9 +4,10 @@
 
 {% tabs %}
 {% tab title="Vanilla" %}
-| Attribut   | Wert |
-| ---------- | ---- |
-| Gesundheit | 25   |
+| Attribut   | Wert     |
+| ---------- | -------- |
+| Gesundheit | 25       |
+| Werkzeug   | Schaufel |
 {% endtab %}
 {% endtabs %}
 

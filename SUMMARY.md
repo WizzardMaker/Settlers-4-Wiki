@@ -20,7 +20,10 @@
 * [Rucksackkatapultist](einheiten/rucksackkatapultist.md)
 * [Priester](einheiten/priester.md)
 * [Gärtner](einheiten/gaertner.md)
+* [Geologe](einheiten/geologe.md)
+* [Dieb](einheiten/dieb.md)
 * [Pionier](einheiten/pionier.md)
+* [Saboteur](einheiten/saboteur.md)
 
 ## Multiplayer
 

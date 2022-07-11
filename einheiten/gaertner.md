@@ -7,6 +7,7 @@
 | Attribut   | Wert (Menschen / DV) |
 | ---------- | -------------------- |
 | Gesundheit | 25 \| 100            |
+| Werkzeug   | Schaufel             |
 {% endtab %}
 {% endtabs %}
 

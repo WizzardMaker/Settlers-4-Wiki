@@ -7,6 +7,7 @@
 | Attribut   | Wert (Menschen / DV) |
 | ---------- | -------------------- |
 | Gesundheit | 80 \| 200            |
+| Werkzeug   | Keins                |
 {% endtab %}
 {% endtabs %}
 
