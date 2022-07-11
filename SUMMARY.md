@@ -19,6 +19,7 @@
 * [Blasrohrschütze](einheiten/blasrohrschuetze.md)
 * [Rucksackkatapultist](einheiten/rucksackkatapultist.md)
 * [Priester](einheiten/priester.md)
+* [Gärtner](einheiten/gaertner.md)
 
 ## Multiplayer
 
