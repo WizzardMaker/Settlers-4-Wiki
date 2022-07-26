@@ -26,7 +26,7 @@ Tutorial von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2Q
 | 5/3/1 Battery | 32 boards / 23 stone | 40 bread / 24 meat / 8 fish  |
 | 5/2/2 Battery | 33 boards / 23 stone | 40 bread / 16 meat / 16 fish |
 
-The build costs can differ depending on whether or not [UBO ](../multiplayer/ultimate-balance-overhaul.md)is used. The battery functions independently of UBO, however, and can be used in the vanilla game.
+The build costs can differ depending on whether or not [UBO ](../multiplayer/ultimate-balance-overhaul-ubo.md)is used. The battery functions independently of UBO, however, and can be used in the vanilla game.
 
 {% tabs %}
 {% tab title="6/3" %}

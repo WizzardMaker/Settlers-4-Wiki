@@ -14,7 +14,7 @@ Settlers United provides a new client software to easily find and host Settlers 
 
 Additionally, several bugs and glitches in both games have been fixed - this is the most stable experience both games have ever had.
 
-Settlers United additionally contains the results of many smaller and larger successes in reverse engineering, which the lobby host can opt into. These include increasing the amount of settlers each player can have, activating the "coalfix" (called Transport+) as well as more substantial balance changes such as [UBO](ultimate-balance-overhaul.md).
+Settlers United additionally contains the results of many smaller and larger successes in reverse engineering, which the lobby host can opt into. These include increasing the amount of settlers each player can have, activating the "coalfix" (called Transport+) as well as more substantial balance changes such as [UBO](ultimate-balance-overhaul-ubo.md).
 
 For Settlers IV, Settlers United can also handle the download and setup of the [Settlers IV HD Patch](https://settlers4-hd.com/) by [WizzardMaker](https://github.com/WizzardMaker).
 

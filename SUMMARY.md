@@ -2,18 +2,18 @@
 
 * [Welcome to the Settlers IV Wiki!](README.md)
 
-## Grundlagen
+## Basics
 
-* [Abbreviations](<README (1).md>)
-* [Buildsite priority](grundlagen/baustellenprioritaet.md)
-* [Working radius](grundlagen/arbeitsradius.md)
-* [Terrain and roads](grundlagen/terrain-und-strassen.md)
+* [Abbreviations](basics/abbreviations.md)
+* [Buildsite priority](basics/buildsite-priority.md)
+* [Working radius](basics/working-radius.md)
+* [Terrain and roads](basics/terrain-and-roads.md)
 
 ## Multiplayer
 
 * [Getting started in S4 Multiplayer](multiplayer/getting-started-in-s4-multiplayer.md)
 * [Settlers United](multiplayer/settlers-united.md)
-* [Ultimate Balance Overhaul](multiplayer/ultimate-balance-overhaul.md)
+* [Ultimate Balance Overhaul / "UBO"](multiplayer/ultimate-balance-overhaul-ubo.md)
 * [Transport+ / "Coalbug"fix](multiplayer/transport+-kohlebug-fix.md)
 
 ## Tips and tricks
