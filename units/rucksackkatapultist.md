@@ -1,0 +1,3 @@
+# Rucksackkatapultist
+
+Rucksackkatapultisten sind theoretisch ein möglicher Konkurrent für den Axtkämpfer, wenn es um den höchstmöglichen Schaden pro Angriff geht. Mit maximaler Kampfkraft und Hauptmannbonus können sie einen Grundschaden von 21,45 erreichen. Mit Blutrausch erhöht sich dies auf 42,9, was auf 43 aufgerundet würde. Würde in jedem möglichen Feld um das Primärziel ein Gegner stehen, kämen dazu 18\*21=378 für den inneren Radius und 72\*10=720 für den äußeren Ring. Damit kommen wir auf einen Maximalschaden von 43+378+720 = 1141. In der Praxis ist dieser Wert jedoch nicht zu erreichen, da Siedler, die nicht aktuell einer Tätigkeit nachgehen (einschließlich Kampfhandlungen) versuchen, einen Mindestabstand von einem Feld in jede Richtung einzuhalten.

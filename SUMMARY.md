@@ -9,6 +9,22 @@
 * [Working radius](basics/working-radius.md)
 * [Terrain and roads](basics/terrain-and-roads.md)
 
+## Units
+
+* [Schwertkämpfer](units/schwertkaempfer.md)
+* [Bogenschütze](units/bogenschuetze.md)
+* [Hauptmann](units/hauptmann.md)
+* [Sanitäter](units/sanitaeter.md)
+* [Axtkämpfer](units/axtkaempfer.md)
+* [Blasrohrschütze](units/blasrohrschuetze.md)
+* [Rucksackkatapultist](units/rucksackkatapultist.md)
+* [Gärtner](units/gaertner.md)
+* [Geologe](units/geologe.md)
+* [Priester](units/priester.md)
+* [Pionier](units/pionier.md)
+* [Dieb](units/dieb.md)
+* [Saboteur](units/saboteur.md)
+
 ## Multiplayer
 
 * [Getting started in S4 Multiplayer](multiplayer/getting-started-in-s4-multiplayer.md)
