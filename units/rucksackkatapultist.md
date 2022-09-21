@@ -2,8 +2,6 @@
 
 <figure><img src="../.gitbook/assets/Rucksacklineup.png" alt=""><figcaption><p>Level 1, 2 and 3 backpack catapultists in a row.</p></figcaption></figure>
 
-
-
 {% tabs %}
 {% tab title="Vanilla" %}
 | Attribute        | Value (L1 \| L2 \| L3)          |

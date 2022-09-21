@@ -17,12 +17,12 @@
 * [Medics](units/medics.md)
 * [Axewarrior](units/axewarrior.md)
 * [Blowgunwarrior](units/blowgunwarrior.md)
-* [Backpack Catapultist](units/backpack-catapultist.md)
-* [Gärtner](units/gaertner.md)
-* [Geologe](units/geologe.md)
-* [Priester](units/priester.md)
-* [Pionier](units/pionier.md)
-* [Dieb](units/dieb.md)
+* [Backpack Catapultist](units/rucksackkatapultist.md)
+* [Priest](units/priest.md)
+* [Gardener](units/gardener.md)
+* [Geologist](units/geologist.md)
+* [Thief](units/thief.md)
+* [Pioneer](units/pioneer.md)
 * [Saboteur](units/saboteur.md)
 
 ## Multiplayer
