@@ -11,9 +11,9 @@
 
 ## Units
 
-* [Schwertkämpfer](units/schwertkaempfer.md)
-* [Bogenschütze](units/bogenschuetze.md)
-* [Hauptmann](units/hauptmann.md)
+* [Swordsman](units/swordsman.md)
+* [Archer](units/archer.md)
+* [Squad Leader](units/squad-leader.md)
 * [Sanitäter](units/sanitaeter.md)
 * [Axtkämpfer](units/axtkaempfer.md)
 * [Blasrohrschütze](units/blasrohrschuetze.md)
