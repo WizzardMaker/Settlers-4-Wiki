@@ -17,7 +17,7 @@
 * [Medics](units/medics.md)
 * [Axewarrior](units/axewarrior.md)
 * [Blowgunwarrior](units/blowgunwarrior.md)
-* [Rucksackkatapultist](units/rucksackkatapultist.md)
+* [Backpack Catapultist](units/backpack-catapultist.md)
 * [Gärtner](units/gaertner.md)
 * [Geologe](units/geologe.md)
 * [Priester](units/priester.md)
