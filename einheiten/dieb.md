@@ -29,6 +29,6 @@ Unabhängig von ihrer Tarnung und Fähigkeit zum Diebstahl macht ihr vergrößer
 
 ### Trivia
 
-* Die können angewiesen werden, Waren in der eigenen Siedlung aufzuheben und an einen beliebigen Ort zu tragen. Dazu ist aber etwas micromanagement erforderlich: Wenn der Dieb seine Aufheb-Animation beendet, muss ihm ein Bewegungsbefehl mit gedrückter ALT-Taste erteilt werden.
+* Diebe können angewiesen werden, Waren in der eigenen Siedlung aufzuheben und an einen beliebigen Ort zu tragen. Dazu ist aber etwas micromanagement erforderlich: Wenn der Dieb seine Aufheb-Animation beendet, muss ihm ein Bewegungsbefehl mit gedrückter ALT-Taste erteilt werden.
 * Das dunkle Volk sollte ursprünglich einen Dieb erhalten. Diese Einheit kann per Script gespawnt werden, hat aber weder Textur noch irgendein aktives Verhalten. Da Schamanen Holz und Eisen per Zauber stehlen können, wurden Diebe vermutlich als überflüssig betrachtet.
 * Diebe sind gegen die KI weitgehend nutzlos, da sie wie alle Spezialisten direkt von Schwertkämpfern gejagt werden, sobald sie feindliches KI-Gebiet betreten. Diebe eignen sich aber, da sie kein Werkzeug benötigen, sehr gut, um dieses Verhalten auszunutzen und feindliche Schwertkämpfer kontinuierlich in Fallen zu locken.
