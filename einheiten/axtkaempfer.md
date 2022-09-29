@@ -18,7 +18,7 @@
 {% tab title="UBO" %}
 | Attribut                | Wert (L1 \| L2 \| L3)                            |
 | ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 100 \| 160 \| 240                                |
+| Gesundheit              | 100 \| 170 \| 255                                |
 | Schaden                 | 24 \| 28 \| 32                                   |
 | Angriffsgeschwindigkeit | 25 Ticks                                         |
 | DPS                     | 13,7 \| 16 \| 18,3                               |

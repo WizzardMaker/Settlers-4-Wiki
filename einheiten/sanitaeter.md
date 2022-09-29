@@ -24,7 +24,7 @@
 | Angriffsgeschwindigkeit | 28 Ticks                                         |
 | DPS                     | 5,2 \| 7,3 \| 10,48                              |
 | Reichweite              | 1 Feld                                           |
-| Heilung                 | 8 \| 12 \| 16                                    |
+| Heilung                 | 6 \| 10 \| 10                                    |
 | Rüstung                 | 0                                                |
 | Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
 {% endtab %}
