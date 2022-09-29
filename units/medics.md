@@ -3,20 +3,7 @@
 <figure><img src="../.gitbook/assets/Sanilineup.png" alt=""><figcaption><p>L1, 2 and 3 medics in a row.</p></figcaption></figure>
 
 {% tabs %}
-{% tab title="Vanilla" %}
-| Attribute        | Value (L1 \| L2 \| L3)          |
-| ---------------- | ------------------------------- |
-| Health           | 50 \| 75 \| 100                 |
-| Damage           | 10 \| 14 \| 20                  |
-| Attack Speed     | 28 Ticks                        |
-| DPS              | 5,2 \| 7,3 \| 10,48             |
-| Range            | 1 Tile                          |
-| Healing          | 8 \| 12 \| 16                   |
-| Armor            | 0                               |
-| Compatible Buffs | Shield, Bloodrush, Invisibility |
-{% endtab %}
-
-{% tab title="UBO" %}
+{% tab title="Vanila" %}
 | Attribute        | Value (L1 \| L2 \| L3)          |
 | ---------------- | ------------------------------- |
 | Health           | 85 \| 120 \| 185                |
@@ -25,6 +12,19 @@
 | DPS              | 2,1 \| 2,6 \| 3,1               |
 | Range            | 1 Tile                          |
 | Healing          | 3 \| 4 \| 5                     |
+| Armor            | 0                               |
+| Compatible Buffs | Shield, Bloodrush, Invisibility |
+{% endtab %}
+
+{% tab title="UBO" %}
+| Attribute        | Value (L1 \| L2 \| L3)          |
+| ---------------- | ------------------------------- |
+| Health           | 50 \| 75 \| 100                 |
+| Damage           | 10 \| 14 \| 20                  |
+| Attack Speed     | 28 Ticks                        |
+| DPS              | 5,2 \| 7,3 \| 10,48             |
+| Range            | 1 Tile                          |
+| Healing          | 6 \| 10 \| 14                   |
 | Armor            | 0                               |
 | Compatible Buffs | Shield, Bloodrush, Invisibility |
 {% endtab %}

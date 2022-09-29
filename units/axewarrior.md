@@ -6,7 +6,7 @@
 {% tab title="Vanilla" %}
 | Attribute        | Value (L1 \| L2 \| L3)          |
 | ---------------- | ------------------------------- |
-| Health           | 100 \| 160 \| 240               |
+| Health           | 75 \| 120 \| 175                |
 | Damage           | 24 \| 28 \| 32                  |
 | Attack Speed     | 25 Ticks                        |
 | DPS              | 13,7 \| 16,1 \| 18,3            |
@@ -18,7 +18,7 @@
 {% tab title="UBO" %}
 | Attribute        | Value (L1 \| L2 \| L3)          |
 | ---------------- | ------------------------------- |
-| Health           | 75 \| 120 \| 175                |
+| Health           | 100 \| 170 \| 255               |
 | Damage           | 24 \| 28 \| 32                  |
 | Attack Speed     | 25 Ticks                        |
 | DPS              | 13,7 \| 16,1 \| 18,3            |
