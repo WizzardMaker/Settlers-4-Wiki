@@ -14,13 +14,13 @@ Gibt an, wie viele Ressourcen pro Minute verarbeitet werden.
 
 
 
-{% tabs %}
-{% tab title="HGHG Random" %}
-![](../.gitbook/assets/hghg\_res\_min.png)
-{% endtab %}
 
-{% tab title="Metzel/Buddel" %}
-![](../.gitbook/assets/metzel\_res\_min.png)
-{% endtab %}
-{% endtabs %}
+=== "HGHG Random"
+	<figure><img src="../../assets/hghg_res_min.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "Metzel/Buddel"
+	<figure><img src="../../assets/metzel_res_min.png" alt=""><figcaption></figcaption></figure>
+
+
 

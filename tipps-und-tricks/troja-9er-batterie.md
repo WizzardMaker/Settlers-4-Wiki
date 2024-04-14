@@ -8,13 +8,16 @@ Erst 2021 hat man herausgefunden, das in den Minenzauber der Trojaner mehr als n
 
 ## Grundlegendes Prinzip
 
-{% embed url="https://www.youtube.com/watch?v=0-jZIhZ1VVs" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/0-jZIhZ1VVs" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 Tutorial von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
-{% endembed %}
+
+</figcaption>
+            
 
 ## Unterschiedliche Bauarten
 
-![Masterplan von Phottor](../.gitbook/assets/9er\_Masterbauplan.png)
+<figure><img src="../../assets/9er_Masterbauplan.png" alt="Masterplan von Phottor"><figcaption>Masterplan von Phottor</figcaption></figure>
 
 
 
@@ -28,40 +31,40 @@ Tutorial von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2Q
 
 Die Baukosten können je nach verwendeter [UBO Version](../multiplayer/ultimate-balance-overhaul.md) abweichen - die 9er Batterie funktioniert aber unabhängig von [UBO ](../multiplayer/ultimate-balance-overhaul.md)auch im normalern Spiel.&#x20;
 
-{% tabs %}
-{% tab title="6/3" %}
-![](../.gitbook/assets/Bauplan\_6.3\_umbau.png)
-{% endtab %}
 
-{% tab title="7/2" %}
-![](../.gitbook/assets/Bauplan\_7.2.png)
-{% endtab %}
+=== "6/3"
+	<figure><img src="../../assets/Bauplan_6.3_umbau.png" alt=""><figcaption></figcaption></figure>
 
-{% tab title="6/2/1" %}
-![](../.gitbook/assets/Bauplan\_6.2.1\_b.png)
-{% endtab %}
 
-{% tab title="5/3/1" %}
-![](../.gitbook/assets/Bauplan\_5.3.1\_b.png)
-{% endtab %}
+=== "7/2"
+	<figure><img src="../../assets/Bauplan_7.2.png" alt=""><figcaption></figcaption></figure>
 
-{% tab title="5/2/2" %}
-![](../.gitbook/assets/Bauplan\_5.2.2.png)
-{% endtab %}
-{% endtabs %}
+
+=== "6/2/1"
+	<figure><img src="../../assets/Bauplan_6.2.1_b.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "5/3/1"
+	<figure><img src="../../assets/Bauplan_5.3.1_b.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "5/2/2"
+	<figure><img src="../../assets/Bauplan_5.2.2.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Zauberpunkt
 
-![](../.gitbook/assets/Zielmine.png)
+<figure><img src="../../assets/Zielmine.png" alt=""><figcaption></figcaption></figure>
 
 Der Zauber sollte auf die markierte Stelle angewendet werden. Da sich die Steinmine, die  zum „zielen“ verwendet bei allen hier aufgelisteten Batterien an der gleichen Stelle befindet,  gilt das für alle fünf Batterien nicht nur für die im Bild abgebildete 6/3er. Bei unebenem  Terrain kann sich der Punkt ein wenig verschieben.
 
 Eine weitere Möglichkeit, den späteren Zauberpunkt beim Bau zu ermitteln ist, bei der Platzierung der zentralen Steinmine darauf zu achten, wo sich der Baupunkt zwei Schritte in Richtung oben links befindet.
 
-![Lila: Hotspot der Mine. Der gelb markierte Baupunkt liegt zwei Schritte oben rechts davon und ist der Zauberpunkt für diese Batterie.](<../.gitbook/assets/9er Batterie Zauberpunkt edited.png>)
+<figure><img src="../../assets/9er Batterie Zauberpunkt edited.png" alt="Lila: Hotspot der Mine. Der gelb markierte Baupunkt liegt zwei Schritte oben rechts davon und ist der Zauberpunkt für diese Batterie."><figcaption>Lila: Hotspot der Mine. Der gelb markierte Baupunkt liegt zwei Schritte oben rechts davon und ist der Zauberpunkt für diese Batterie.</figcaption></figure>
 
 ## Weitere Tipps
 
 Bei allen Batterietypen ist es wichtig, dass die beiden Schwefelminen, die den Anfang bilden, perfekt parallel ausgerichtet sind. Dies ist aber selbst bei unebenen Gelände leicht zu erreichen. Wenn die erste Schwefelmine platziert ist, wird, sobald die nächste ausgewählt ist, ein Sechseck aus Baupunkten um die erste sichtbar, mit einer erkennbaren Falz an beiden Seiten. Wenn wir die zweite Mine rechts von der ersten errichten wollen, bewegen wir uns von der rechten Falz zwei Schritte nach links unten. Wenn wir die zweite Mine links errichten wollen, bewegen wir uns von der linken Falz zwei Schritte nach rechts oben.
 
-![](<../.gitbook/assets/9er Batterie Schwefelfalz.png>)
+<figure><img src="../../assets/9er Batterie Schwefelfalz.png" alt=""><figcaption></figcaption></figure>

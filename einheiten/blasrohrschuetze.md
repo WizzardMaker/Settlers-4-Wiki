@@ -1,34 +1,34 @@
 # Blasrohrschütze
 
-![Level 1, 2 und 3 Blasrohrschützen in einer Reihe](../.gitbook/assets/Blasilineup.png)
+<figure><img src="../../assets/Blasilineup.png" alt="Level 1, 2 und 3 Blasrohrschützen in einer Reihe"><figcaption>Level 1, 2 und 3 Blasrohrschützen in einer Reihe</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut                   | Wert (L1 \| L2 \| L3)                            |
-| -------------------------- | ------------------------------------------------ |
-| Gesundheit                 | 85 \| 125 \| 190                                 |
-| Schaden                    | 3 \| 4 \| 5                                      |
-| Angriffsgeschwindigkeit    | 23 Ticks                                         |
-| DPS                        | 1,8 \| 2,4 \| 3                                  |
-| Reichweite                 | 5 Felder                                         |
-| Lähmungswahrscheinlichkeit | \~50% / \~70% \| \~ 75-80%                       |
-| Rüstung                    | 0                                                |
-| Kompatible Buffs           | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
 
-{% tab title="UBO" %}
-| Attribut                   | Wert (L1 \| L2 \| L3)                            |
-| -------------------------- | ------------------------------------------------ |
-| Gesundheit                 | 100 \| 150\| 210                                 |
-| Schaden                    | 6 \| 9 \| 12                                     |
-| Angriffsgeschwindigkeit    | 23 Ticks                                         |
-| DPS                        | 3,6 \| 5,4 \| 7,2                                |
-| Reichweite                 | 5 Felder                                         |
-| Lähmungswahrscheinlichkeit | \~50% \| \~70% \| \~75-80%                       |
-| Rüstung                    | 0                                                |
-| Kompatible Buffs           | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
-{% endtabs %}
+=== "Vanilla"
+	| Attribut                   | Wert (L1 \| L2 \| L3)                            |
+	| -------------------------- | ------------------------------------------------ |
+	| Gesundheit                 | 85 \| 125 \| 190                                 |
+	| Schaden                    | 3 \| 4 \| 5                                      |
+	| Angriffsgeschwindigkeit    | 23 Ticks                                         |
+	| DPS                        | 1,8 \| 2,4 \| 3                                  |
+	| Reichweite                 | 5 Felder                                         |
+	| Lähmungswahrscheinlichkeit | \~50% / \~70% \| \~ 75-80%                       |
+	| Rüstung                    | 0                                                |
+	| Kompatible Buffs           | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+
+
+=== "UBO"
+	| Attribut                   | Wert (L1 \| L2 \| L3)                            |
+	| -------------------------- | ------------------------------------------------ |
+	| Gesundheit                 | 100 \| 150\| 210                                 |
+	| Schaden                    | 6 \| 9 \| 12                                     |
+	| Angriffsgeschwindigkeit    | 23 Ticks                                         |
+	| DPS                        | 3,6 \| 5,4 \| 7,2                                |
+	| Reichweite                 | 5 Felder                                         |
+	| Lähmungswahrscheinlichkeit | \~50% \| \~70% \| \~75-80%                       |
+	| Rüstung                    | 0                                                |
+	| Kompatible Buffs           | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+
+
 
 ### Überblick
 
@@ -45,6 +45,6 @@ UBO erhöht den Schaden von Blasrohrschützen deutlich, auf 150% eines gleichwer
 
 * Obwohl sie keine Nahkämpfer sind, können Blasrohrschützen vom Blutrauschzauber der Wikinger profitieren.
 
-{% embed url="https://youtu.be/4cjK3ch2XkI" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/4cjK3ch2XkI" frameborder="0" allowfullscreen></iframe>
 
-{% embed url="https://www.youtube.com/watch?v=sQDU8RK_WBM" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/sQDU8RK_WBM" frameborder="0" allowfullscreen></iframe>

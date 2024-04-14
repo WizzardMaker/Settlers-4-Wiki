@@ -1,32 +1,32 @@
 # Axtkämpfer
 
-![Level 1, 2 und 3 Axtkämpfer in einer Reihe](../.gitbook/assets/Axtilineup.png)
+<figure><img src="../../assets/Axtilineup.png" alt="Level 1, 2 und 3 Axtkämpfer in einer Reihe"><figcaption>Level 1, 2 und 3 Axtkämpfer in einer Reihe</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut                | Wert (L1 \| L2 \| L3)                            |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 75 \| 120 \| 175                                 |
-| Schaden                 | 24 \| 28 \| 32                                   |
-| Angriffsgeschwindigkeit | 25 Ticks                                         |
-| DPS                     | 13,7 \| 16,1 \| 18,3                             |
-| Reichweite              | 2 Felder                                         |
-| Rüstung                 | 0                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
 
-{% tab title="UBO" %}
-| Attribut                | Wert (L1 \| L2 \| L3)                            |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 100 \| 170 \| 255                                |
-| Schaden                 | 24 \| 28 \| 32                                   |
-| Angriffsgeschwindigkeit | 25 Ticks                                         |
-| DPS                     | 13,7 \| 16 \| 18,3                               |
-| Reichweite              | 2 Felder                                         |
-| Rüstung                 | 0                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
-{% endtabs %}
+=== "Vanilla"
+	| Attribut                | Wert (L1 \| L2 \| L3)                            |
+	| ----------------------- | ------------------------------------------------ |
+	| Gesundheit              | 75 \| 120 \| 175                                 |
+	| Schaden                 | 24 \| 28 \| 32                                   |
+	| Angriffsgeschwindigkeit | 25 Ticks                                         |
+	| DPS                     | 13,7 \| 16,1 \| 18,3                             |
+	| Reichweite              | 2 Felder                                         |
+	| Rüstung                 | 0                                                |
+	| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+
+
+=== "UBO"
+	| Attribut                | Wert (L1 \| L2 \| L3)                            |
+	| ----------------------- | ------------------------------------------------ |
+	| Gesundheit              | 100 \| 170 \| 255                                |
+	| Schaden                 | 24 \| 28 \| 32                                   |
+	| Angriffsgeschwindigkeit | 25 Ticks                                         |
+	| DPS                     | 13,7 \| 16 \| 18,3                               |
+	| Reichweite              | 2 Felder                                         |
+	| Rüstung                 | 0                                                |
+	| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+
+
 
 ### Überblick
 
@@ -47,6 +47,6 @@ UBO erhöht die Gesundheit von Axtkämpfern, um sie besser in normale Armeen int
 * Wenn Axtkämpfer gegen Gebäude eingesetzt werden sollte bedacht werden, dass alle Gebäude, einschließlich Türme, fünf Rüstung besitzen.
 * Axtkämpfer besitzen den höchsten Einzelzielschaden aller normalen Siedler im Spiel, mit 32 für Level 3 Soldaten. Dies kann mit maximaler Kampfkraft, dem Hauptmannbonus und Blutrausch auf bis zu 106 Schaden erhöht werden. Konkurrenz kommt jedoch vom Rucksackkatapultisten dank seines Flächenschadens.
 
-{% embed url="https://www.youtube.com/watch?v=En8Hv6alV_E" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/En8Hv6alV_E" frameborder="0" allowfullscreen></iframe>
 
-{% embed url="https://www.youtube.com/watch?v=sQDU8RK_WBM" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/sQDU8RK_WBM" frameborder="0" allowfullscreen></iframe>

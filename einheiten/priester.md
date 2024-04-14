@@ -1,15 +1,15 @@
 # Priester
 
-![Alle Priester der Völker in einer Reihe, plus Schamane](../.gitbook/assets/Priesterlineup.png)
+<figure><img src="../../assets/Priesterlineup.png" alt="Alle Priester der Völker in einer Reihe, plus Schamane"><figcaption>Alle Priester der Völker in einer Reihe, plus Schamane</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut   | Wert (Menschen / DV) |
-| ---------- | -------------------- |
-| Gesundheit | 80 \| 200            |
-| Werkzeug   | Keins                |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut   | Wert (Menschen / DV) |
+	| ---------- | -------------------- |
+	| Gesundheit | 80 \| 200            |
+	| Werkzeug   | Keins                |
+
+
 
 ### Überblick
 
@@ -29,44 +29,44 @@ Als DV-Spieler lassen sich Schamanen und dunkle Gärtner hervorragend kombiniere
 
 * Auch wenn das dunkle Volk einige eigene Zauber besitzt, sind Schamanen keine Priester im eigentlichen Sinne. Wenn der Spieler das dunkle Volk steuert, haben Schamanen auch keinen Zugang zum normalen Zaubermenü. Versklavung ist ihr Standardangriff, aber ihre beiden anderen Zauber, Verrottung und Diebstahl, können nicht vom Spieler genutzt werden.
 
-{% tabs %}
-{% tab title="Alle Völker" %}
-{% embed url="https://www.youtube.com/watch?v=TJStlMdHip8" %}
 
-{% embed url="https://www.youtube.com/watch?v=BFSLvgDNAk4" %}
+=== "Alle Völker"
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/TJStlMdHip8" frameborder="0" allowfullscreen></iframe>
+	
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/BFSLvgDNAk4" frameborder="0" allowfullscreen></iframe>
+	
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/8jLSS6_ocFo" frameborder="0" allowfullscreen></iframe>
 
-{% embed url="https://www.youtube.com/watch?v=8jLSS6_ocFo" %}
-{% endtab %}
 
-{% tab title="Römer" %}
-{% embed url="https://www.youtube.com/watch?v=63CvSl_IJbw" %}
+=== "Römer"
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/63CvSl_IJbw" frameborder="0" allowfullscreen></iframe>
+	
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/nmDQqNp-T_E" frameborder="0" allowfullscreen></iframe>
 
-{% embed url="https://www.youtube.com/watch?v=nmDQqNp-T_E" %}
-{% endtab %}
 
-{% tab title="Wikinger" %}
-{% embed url="https://www.youtube.com/watch?v=Qerq8mCN7ww" %}
+=== "Wikinger"
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/Qerq8mCN7ww" frameborder="0" allowfullscreen></iframe>
+	
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/yW-hw5009vQ" frameborder="0" allowfullscreen></iframe>
 
-{% embed url="https://www.youtube.com/watch?v=yW-hw5009vQ" %}
-{% endtab %}
 
-{% tab title="Mayas" %}
-{% embed url="https://www.youtube.com/watch?v=BBPhjqot1t4" %}
+=== "Mayas"
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/BBPhjqot1t4" frameborder="0" allowfullscreen></iframe>
+	
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/4obPYaNrZp0" frameborder="0" allowfullscreen></iframe>
+	
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/VdwjOLTtR4c" frameborder="0" allowfullscreen></iframe>
 
-{% embed url="https://www.youtube.com/watch?v=4obPYaNrZp0" %}
 
-{% embed url="https://www.youtube.com/watch?v=VdwjOLTtR4c" %}
-{% endtab %}
+=== "Trojaner"
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/a3RhPpnok7M" frameborder="0" allowfullscreen></iframe>
+	
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/4obPYaNrZp0" frameborder="0" allowfullscreen></iframe>
 
-{% tab title="Trojaner" %}
-{% embed url="https://www.youtube.com/watch?v=a3RhPpnok7M" %}
 
-{% embed url="https://www.youtube.com/watch?v=4obPYaNrZp0" %}
-{% endtab %}
+=== "Dunkles Volk"
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/W_cWblBixl4" frameborder="0" allowfullscreen></iframe>
+	
+	<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/3ddzE3XtZEQ" frameborder="0" allowfullscreen></iframe>
 
-{% tab title="Dunkles Volk" %}
-{% embed url="https://www.youtube.com/watch?v=W_cWblBixl4" %}
 
-{% embed url="https://www.youtube.com/watch?v=3ddzE3XtZEQ" %}
-{% endtab %}
-{% endtabs %}

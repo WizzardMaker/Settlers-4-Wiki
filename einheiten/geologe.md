@@ -1,15 +1,15 @@
 # Geologe
 
-![Alle Geologen der Völker in einer Reihe](../.gitbook/assets/Geolineup.png)
+<figure><img src="../../assets/Geolineup.png" alt="Alle Geologen der Völker in einer Reihe"><figcaption>Alle Geologen der Völker in einer Reihe</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut   | Wert   |
-| ---------- | ------ |
-| Gesundheit | 25     |
-| Werkzeug   | Hammer |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut   | Wert   |
+	| ---------- | ------ |
+	| Gesundheit | 25     |
+	| Werkzeug   | Hammer |
+
+
 
 ### Überblick
 

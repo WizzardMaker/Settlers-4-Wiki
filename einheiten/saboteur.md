@@ -1,16 +1,16 @@
 # Saboteur
 
-![Alle Saboteure der Völker in einer Reihe](../.gitbook/assets/Sabolineup.png)
+<figure><img src="../../assets/Sabolineup.png" alt="Alle Saboteure der Völker in einer Reihe"><figcaption>Alle Saboteure der Völker in einer Reihe</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut   | Wert       |
-| ---------- | ---------- |
-| Gesundheit | 25         |
-| Schaden    | 6          |
-| Werkzeug   | Spitzhacke |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut   | Wert       |
+	| ---------- | ---------- |
+	| Gesundheit | 25         |
+	| Schaden    | 6          |
+	| Werkzeug   | Spitzhacke |
+
+
 
 ### Überblick
 

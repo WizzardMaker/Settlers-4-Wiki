@@ -27,31 +27,31 @@ für die wichtigsten Armeenkonstellationen aus reinen L3 Einheiten habe ich die 
 _1. Zeile KK Spikes_ \
 _2. Zeile Hits per Kill_&#x20;
 
-{% tabs %}
-{% tab title="Schwert KK gegen Schwert" %}
-**Schwert KK gegen Schwert**
 
-`25 - 28 - 33 - 38 - 43 - 48 - 53 - 58 - 63 - 68 - 73 - 83 - 88 - 98 - 103 - 118 - 133 - 148`
+=== "Schwert KK gegen Schwert"
+	**Schwert KK gegen Schwert**
+	
+	`25 - 28 - 33 - 38 - 43 - 48 - 53 - 58 - 63 - 68 - 73 - 83 - 88 - 98 - 103 - 118 - 133 - 148`
+	
+	`42 - 35 - 30 - 27 - 24 - 21 - 20 - 18 - 17 - 15 - 14 - 13 - 12 - 11 - 10  - 9   - 8   - 7`
 
-`42 - 35 - 30 - 27 - 24 - 21 - 20 - 18 - 17 - 15 - 14 - 13 - 12 - 11 - 10  - 9   - 8   - 7`
-{% endtab %}
 
-{% tab title="Schwert KK gegen Bogis" %}
-**Schwert KK gegen Bogis**
+=== "Schwert KK gegen Bogis"
+	**Schwert KK gegen Bogis**
+	
+	`25 - 28 - 33 - 38 - 43 - 48 - 53 - 58 - 63 - 68 - 73 - 78 - 88 - 98 - 113 - 133`
+	
+	`32 - 27 - 23 - 20 - 18 - 16 - 15 - 14 - 13 - 12 - 11 - 10 - 9  - 8  - 7   - 6`
 
-`25 - 28 - 33 - 38 - 43 - 48 - 53 - 58 - 63 - 68 - 73 - 78 - 88 - 98 - 113 - 133`
 
-`32 - 27 - 23 - 20 - 18 - 16 - 15 - 14 - 13 - 12 - 11 - 10 - 9  - 8  - 7   - 6`
-{% endtab %}
+=== "Bogi KK gegen Bogis"
+	**Bogi KK gegen Bogis** (gleiche Spikes gegen alle anderen Einheiten)
+	
+	`25 - 32 - 44 - 57 - 69 - 81 - 94 - 106 - 119 - 131 - 144`
+	
+	`80 - 54 - 40 - 32 - 27 - 23 - 20 - 18  - 16  - 15  - 14`
 
-{% tab title="Bogi KK gegen Bogis" %}
-**Bogi KK gegen Bogis** (gleiche Spikes gegen alle anderen Einheiten)
 
-`25 - 32 - 44 - 57 - 69 - 81 - 94 - 106 - 119 - 131 - 144`
-
-`80 - 54 - 40 - 32 - 27 - 23 - 20 - 18  - 16  - 15  - 14`
-{% endtab %}
-{% endtabs %}
 
 ****
 
@@ -61,7 +61,7 @@ An den Hits per Kill lässt sich erkennen, dass z.B. bei Bogenschützen vs. Boge
 
 Nightfever221 hat eine größere Tabelle angefertigt für die Standardeinheiten beliebigen Levels (danke!): Beachtet allerdings, dass manche Einträge aufgrund des merkwürdigen Rundens in Siedler 4 in dieser Tabelle um einen Wert zu hoch sind (z.B. braucht man nur 131KK, um einen L3 Bogenschützen mit 15 Hits zu töten, nicht 132). Wenn ihr euch an diese Tabelle haltet, so nehmt ihr aber definitiv alle KK-Spikes mit.
 
-![](../.gitbook/assets/table.png)
+<figure><img src="../../assets/table.png" alt=""><figcaption></figcaption></figure>
 
 ## KK für Spezialeinheiten (not yet available)
 

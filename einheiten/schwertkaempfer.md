@@ -1,20 +1,20 @@
 # Schwertkämpfer
 
-![Alle Schwertkämpfer aller Völker](../.gitbook/assets/Schwertkämpferlineup.png)
+<figure><img src="../../assets/Schwertkämpferlineup.png" alt="Alle Schwertkämpfer aller Völker"><figcaption>Alle Schwertkämpfer aller Völker</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut                | Wert (L1 \| L2 \| L3 \| DV)                      |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 100 \| 150 \| 210 \| 120                         |
-| Schaden                 | 10 \| 14 \| 20 \| 12                             |
-| Angriffsgeschwindigkeit | 13 Ticks                                         |
-| DPS                     | 10,9 \| 15,25 \| 21,8 \| 16                      |
-| Reichweite              | 1 Feld                                           |
-| Rüstung                 | 0                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut                | Wert (L1 \| L2 \| L3 \| DV)                      |
+	| ----------------------- | ------------------------------------------------ |
+	| Gesundheit              | 100 \| 150 \| 210 \| 120                         |
+	| Schaden                 | 10 \| 14 \| 20 \| 12                             |
+	| Angriffsgeschwindigkeit | 13 Ticks                                         |
+	| DPS                     | 10,9 \| 15,25 \| 21,8 \| 16                      |
+	| Reichweite              | 1 Feld                                           |
+	| Rüstung                 | 0                                                |
+	| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+
+
 
 ### Überblick
 

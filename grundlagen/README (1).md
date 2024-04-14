@@ -1,6 +1,6 @@
 # Baustellenpriorität
 
-{% embed url="https://youtu.be/Gt26_eF8EB8" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/Gt26_eF8EB8" frameborder="0" allowfullscreen></iframe>
 
 Ihr habt in Siedler IV die Möglichkeit einzelne Gebäude mithilfe des Prio Buttons auf eine Art bevorzugte Prioritätsliste zu setzen. Doch was genau bedeutet dies für eure Siedlung, und wie kann man mit diesem System arbeiten?
 

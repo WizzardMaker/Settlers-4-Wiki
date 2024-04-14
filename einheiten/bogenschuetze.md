@@ -1,20 +1,20 @@
 # Bogenschütze
 
-![Alle Bogenschützen aller Völker](../.gitbook/assets/Bogenschützenlineup.png)
+<figure><img src="../../assets/Bogenschützenlineup.png" alt="Alle Bogenschützen aller Völker"><figcaption>Alle Bogenschützen aller Völker</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut                | Wert (L1 \| L2 \| L3 \| DV)          |
-| ----------------------- | ------------------------------------ |
-| Gesundheit              | 75 \| 120 \| 160 \| 100              |
-| Schaden                 | 4 \| 6 \| 8 \| 5                     |
-| Angriffsgeschwindigkeit | 20 Ticks (19 für DV)                 |
-| DPS                     | 2,8 \| 4,2 \| 5,6 \| 3,75            |
-| Reichweite              | 10 Felder                            |
-| Rüstung                 | 0                                    |
-| Kompatible Buffs        | Schutzschild, Angriff aus dem Nichts |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut                | Wert (L1 \| L2 \| L3 \| DV)          |
+	| ----------------------- | ------------------------------------ |
+	| Gesundheit              | 75 \| 120 \| 160 \| 100              |
+	| Schaden                 | 4 \| 6 \| 8 \| 5                     |
+	| Angriffsgeschwindigkeit | 20 Ticks (19 für DV)                 |
+	| DPS                     | 2,8 \| 4,2 \| 5,6 \| 3,75            |
+	| Reichweite              | 10 Felder                            |
+	| Rüstung                 | 0                                    |
+	| Kompatible Buffs        | Schutzschild, Angriff aus dem Nichts |
+
+
 
 ### Überblick
 

@@ -1,34 +1,34 @@
 # Sanitäter
 
-![Level 1, 2 und 3 Sanitäter in einer Reihe](../.gitbook/assets/Sanilineup.png)
+<figure><img src="../../assets/Sanilineup.png" alt="Level 1, 2 und 3 Sanitäter in einer Reihe"><figcaption>Level 1, 2 und 3 Sanitäter in einer Reihe</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut                | Wert (L1 \| L2 \| L3)                            |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 85 \| 120 \| 185                                 |
-| Schaden                 | 4 \| 5 \| 6                                      |
-| Angriffsgeschwindigkeit | 28 Ticks                                         |
-| DPS                     | 2,1 \| 2,6 \| 3,1                                |
-| Reichweite              | 1 Feld                                           |
-| Heilung                 | 3 \| 4 \| 5                                      |
-| Rüstung                 | 0                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
 
-{% tab title="UBO" %}
-| Attribut                | Wert (L1 \| L2 \| L3)                            |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 50 \| 75 \| 100                                  |
-| Schaden                 | 10 \| 14 \| 20                                   |
-| Angriffsgeschwindigkeit | 28 Ticks                                         |
-| DPS                     | 5,2 \| 7,3 \| 10,48                              |
-| Reichweite              | 1 Feld                                           |
-| Heilung                 | 6 \| 10 \| 10                                    |
-| Rüstung                 | 0                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
-{% endtabs %}
+=== "Vanilla"
+	| Attribut                | Wert (L1 \| L2 \| L3)                            |
+	| ----------------------- | ------------------------------------------------ |
+	| Gesundheit              | 85 \| 120 \| 185                                 |
+	| Schaden                 | 4 \| 5 \| 6                                      |
+	| Angriffsgeschwindigkeit | 28 Ticks                                         |
+	| DPS                     | 2,1 \| 2,6 \| 3,1                                |
+	| Reichweite              | 1 Feld                                           |
+	| Heilung                 | 3 \| 4 \| 5                                      |
+	| Rüstung                 | 0                                                |
+	| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+
+
+=== "UBO"
+	| Attribut                | Wert (L1 \| L2 \| L3)                            |
+	| ----------------------- | ------------------------------------------------ |
+	| Gesundheit              | 50 \| 75 \| 100                                  |
+	| Schaden                 | 10 \| 14 \| 20                                   |
+	| Angriffsgeschwindigkeit | 28 Ticks                                         |
+	| DPS                     | 5,2 \| 7,3 \| 10,48                              |
+	| Reichweite              | 1 Feld                                           |
+	| Heilung                 | 6 \| 10 \| 10                                    |
+	| Rüstung                 | 0                                                |
+	| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+
+
 
 ### Überblick
 
@@ -49,6 +49,6 @@ Feindliche Sanitäter sind Prioritätsziele, da ein Sieg des Gegners durch sie n
 * Sanitäter sind die einzige Spezialeinheit, die keine eigene Ware erfordert, sondern das Schwert mitnutzt. Allerdings gibt es in den Spieldateien Referenzen für einen Dolch, was darauf hindeutet, dass dies nicht immer geplant war. Ob der Dolch aus Zeitgründen der Schere zum Opfer fiel oder ob die Unterteilung die Römer zu unflexibel machte und die Hürde zur Rekrutierung von Sanitätern zusammen mit der restlichen Armee dadurch zu hoch war, ist nicht bekannt.
 * Sanitäter sind auch einzigartig in der Hinsicht, dass einer ihrer Werte direkt von defensiver Kampfkraft abhängt. Da Sanitäter als Lazarettersatz außerhalb der Siedlung dienen sollen, wurde dies wahrscheinlich entschieden, damit ihre Heilung nicht durch geringe Kampfkraft zu gering wird, um ins Gewicht zu fallen.
 
-{% embed url="https://www.youtube.com/watch?v=nQE_4UL-QNo" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/nQE_4UL-QNo" frameborder="0" allowfullscreen></iframe>
 
-{% embed url="https://www.youtube.com/watch?v=sQDU8RK_WBM" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/sQDU8RK_WBM" frameborder="0" allowfullscreen></iframe>

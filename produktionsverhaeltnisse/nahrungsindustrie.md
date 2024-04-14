@@ -12,37 +12,37 @@ description: by Phottor
 
 ## Nahrungsindustrie Allgemein
 
-{% tabs %}
-{% tab title="HGHG Random" %}
-![](../.gitbook/assets/hghg\_nahrung.png)
-{% endtab %}
 
-{% tab title="Metzel/Buddel" %}
-![](../.gitbook/assets/metzel\_nahrung.png)
-{% endtab %}
-{% endtabs %}
+=== "HGHG Random"
+	<figure><img src="../../assets/hghg_nahrung.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "Metzel/Buddel"
+	<figure><img src="../../assets/metzel_nahrung.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Brotindutrie
 
-{% tabs %}
-{% tab title="HGHG Random" %}
-![](../.gitbook/assets/hghg\_brot.png)
-{% endtab %}
 
-{% tab title="Metzel/Buddel" %}
-![](../.gitbook/assets/metzel\_brot.png)
-{% endtab %}
-{% endtabs %}
+=== "HGHG Random"
+	<figure><img src="../../assets/hghg_brot.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "Metzel/Buddel"
+	<figure><img src="../../assets/metzel_brot.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## **Fleischindsutrie**
 
-{% tabs %}
-{% tab title="HGHG Random" %}
-![](../.gitbook/assets/hghg\_fleisch.png)
-{% endtab %}
 
-{% tab title="Metzel/Buddel" %}
-![](../.gitbook/assets/metzel\_fleisch.png)
-{% endtab %}
-{% endtabs %}
+=== "HGHG Random"
+	<figure><img src="../../assets/hghg_fleisch.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "Metzel/Buddel"
+	<figure><img src="../../assets/metzel_fleisch.png" alt=""><figcaption></figcaption></figure>
+
+
 

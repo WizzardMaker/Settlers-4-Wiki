@@ -1,8 +1,11 @@
 # Settlers United
 
-{% embed url="https://www.youtube.com/watch?v=zj1RJqZbHw0" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/zj1RJqZbHw0" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
-{% endembed %}
+
+</figcaption>
+            
 
 ## Was ist Settlers United?
 

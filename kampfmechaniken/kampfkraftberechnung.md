@@ -6,9 +6,12 @@ description: by Phottor
 
 ## Allgemeines
 
-{% embed url="https://www.youtube.com/watch?v=YcVu_iQ8FAo" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/YcVu_iQ8FAo" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
-{% endembed %}
+
+</figcaption>
+            
 
 Auch wenn das Spiel die Kampfkraft intern in pro 256 verrechnet, werde ich meine folgenden Aussagen über pro Zent (%) machen, da die Kampkraft im Spiel ja auch so angegeben wird. Mit minimalen Rundungsfehlern ist zu rechnen.&#x20;
 
@@ -84,7 +87,7 @@ im Programm werden der Reihe nach diese Rechnungen durchgegangen:
 **KK Schub durch komplettes Zierobjekt Set (danke @Ablmeo!)**\
 Nicht berücksichtigt sind dabei die Schwellenübergänge. Da zählt nur der Wert bis zur Schwelle und alles darüber nur die Hälfte.
 
-![](../.gitbook/assets/kk.png)
+<figure><img src="../../assets/kk.png" alt=""><figcaption></figcaption></figure>
 
 ## Starkampfkraft
 

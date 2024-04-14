@@ -14,13 +14,13 @@ Gibt an, wie viele Ticks ein Arbeitsgang des Gebäudes braucht, also wie lange f
 
 
 
-{% tabs %}
-{% tab title="HGHG Random" %}
-![](../.gitbook/assets/hghg\_ticks\_res.png)
-{% endtab %}
 
-{% tab title="Metzel/Buddel" %}
-![](../.gitbook/assets/metzel\_ticks\_res.png)
-{% endtab %}
-{% endtabs %}
+=== "HGHG Random"
+	<figure><img src="../../assets/hghg_ticks_res.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "Metzel/Buddel"
+	<figure><img src="../../assets/metzel_ticks_res.png" alt=""><figcaption></figcaption></figure>
+
+
 

@@ -12,17 +12,17 @@ description: by Phottor
 
 ****
 
-{% tabs %}
-{% tab title="HGHG Random" %}
-![](../.gitbook/assets/hghg\_schwerindustrie.png)
 
-![](../.gitbook/assets/hghg\_schwerindustrie2.png)
-{% endtab %}
+=== "HGHG Random"
+	<figure><img src="../../assets/hghg_schwerindustrie.png" alt=""><figcaption></figcaption></figure>
+	
+	<figure><img src="../../assets/hghg_schwerindustrie2.png" alt=""><figcaption></figcaption></figure>
 
-{% tab title="Metzel/Buddel" %}
-![](../.gitbook/assets/metzel\_schwerindustrie.png)
 
-![](../.gitbook/assets/metzel\_schwerindustrie2.png)
-{% endtab %}
-{% endtabs %}
+=== "Metzel/Buddel"
+	<figure><img src="../../assets/metzel_schwerindustrie.png" alt=""><figcaption></figcaption></figure>
+	
+	<figure><img src="../../assets/metzel_schwerindustrie2.png" alt=""><figcaption></figcaption></figure>
+
+
 

@@ -1,26 +1,26 @@
 # Rucksackkatapultist
 
-![Level 1, 2 und 3 Rucksackkatapultisten in einer Reihe](../.gitbook/assets/Rucksacklineup.png)
+<figure><img src="../../assets/Rucksacklineup.png" alt="Level 1, 2 und 3 Rucksackkatapultisten in einer Reihe"><figcaption>Level 1, 2 und 3 Rucksackkatapultisten in einer Reihe</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut                | Wert (L1 \| L2 \| L3)                            |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 30 \| 40 \| 45                                   |
-| Schaden                 | 8 \| 11 \| 13                                    |
-| Angriffsgeschwindigkeit | 30 Ticks                                         |
-| DPS                     | 3,7 \| 5,1 \| 6                                  |
-| Reichweite              | 8 Felder                                         |
-| Rüstung                 | 0                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut                | Wert (L1 \| L2 \| L3)                            |
+	| ----------------------- | ------------------------------------------------ |
+	| Gesundheit              | 30 \| 40 \| 45                                   |
+	| Schaden                 | 8 \| 11 \| 13                                    |
+	| Angriffsgeschwindigkeit | 30 Ticks                                         |
+	| DPS                     | 3,7 \| 5,1 \| 6                                  |
+	| Reichweite              | 8 Felder                                         |
+	| Rüstung                 | 0                                                |
+	| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+
+
 
 ### Überblick
 
 Rucksackkatapultisten sind die Spezialeinheit der Trojaner. Sie sind die erste und einzige Artillerieeinheit der Siedler - zusätzlich zu ihrem gelisteten Grundschaden richten sie auf jedem Ziel im Umkreis von zwei Feldern um das Primärziel 50% des Grundschadens an. Im Umkreis von weiteren 3 Feldern stehende Ziele nehmen 25% des Grundschadens. Dadurch können Rucksackkatapultisten in einem sehr großzügigen Bereich und über ihre Primärreichweite hinaus Schaden anrichten. Im Austausch dafür haben sie die geringste Gesundheit aller Soldaten im Spiel.
 
-![Flächenschaden](<../.gitbook/assets/Flächenschaden Rucksackkatapultist.png>)
+<figure><img src="../../assets/Flächenschaden Rucksackkatapultist.png" alt="Flächenschaden"><figcaption>Flächenschaden</figcaption></figure>
 
 ### Strategie
 
@@ -35,6 +35,6 @@ Gegen Nahkämpfer profitieren Rucksackkatapultisten, je mehr feindliche Soldaten
   \
   In der Praxis ist dieser Wert jedoch nicht zu erreichen, da Siedler, die nicht aktuell einer Tätigkeit nachgehen (einschließlich Kampfhandlungen) versuchen, einen Mindestabstand von einem Feld in jede Richtung einzuhalten.
 
-{% embed url="https://www.youtube.com/watch?v=GNe78yzZSAM" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/GNe78yzZSAM" frameborder="0" allowfullscreen></iframe>
 
-{% embed url="https://www.youtube.com/watch?v=sQDU8RK_WBM" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/sQDU8RK_WBM" frameborder="0" allowfullscreen></iframe>

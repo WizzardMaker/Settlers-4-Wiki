@@ -1,15 +1,15 @@
 # Gärtner
 
-![Alle Gärtner der Völker in einer Reihe, plus ihr böses Gegenstück](../.gitbook/assets/Gärtnerlineup.png)
+<figure><img src="../../assets/Gärtnerlineup.png" alt="Alle Gärtner der Völker in einer Reihe, plus ihr böses Gegenstück"><figcaption>Alle Gärtner der Völker in einer Reihe, plus ihr böses Gegenstück</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut   | Wert (Menschen / DV) |
-| ---------- | -------------------- |
-| Gesundheit | 25 \| 100            |
-| Werkzeug   | Schaufel             |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut   | Wert (Menschen / DV) |
+	| ---------- | -------------------- |
+	| Gesundheit | 25 \| 100            |
+	| Werkzeug   | Schaufel             |
+
+
 
 ### Überblick
 

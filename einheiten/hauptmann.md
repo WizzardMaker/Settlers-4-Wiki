@@ -1,20 +1,20 @@
 # Hauptmann
 
-![Alle Hauptmänner aller Völker](../.gitbook/assets/Hauptmannlineup.png)
+<figure><img src="../../assets/Hauptmannlineup.png" alt="Alle Hauptmänner aller Völker"><figcaption>Alle Hauptmänner aller Völker</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut                | Wert (DV)                                        |
-| ----------------------- | ------------------------------------------------ |
-| Gesundheit              | 215 (200)                                        |
-| Schaden                 | 21 (0)                                           |
-| Angriffsgeschwindigkeit | 13 Ticks                                         |
-| DPS                     | 22,9                                             |
-| Reichweite              | 1 Feld                                           |
-| Rüstung                 | 2                                                |
-| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut                | Wert (DV)                                        |
+	| ----------------------- | ------------------------------------------------ |
+	| Gesundheit              | 215 (200)                                        |
+	| Schaden                 | 21 (0)                                           |
+	| Angriffsgeschwindigkeit | 13 Ticks                                         |
+	| DPS                     | 22,9                                             |
+	| Reichweite              | 1 Feld                                           |
+	| Rüstung                 | 2                                                |
+	| Kompatible Buffs        | Schutzschild, Blutrausch, Angriff aus dem Nichts |
+
+
 
 ### Überblick
 
@@ -36,4 +36,4 @@ Jedes Volk hat Möglichkeiten, die Hauptmänner hardcountern können. Barbaren b
 * Der Moralbonus ist verbuggt und gilt nur für Einheiten, die sich zur Zeit der Gruppenzuweisung oberhalb oder in der gleichen Felderreihe links vom Hauptmann befanden.
 * Von Frieden Stiften getroffene Hauptmänner lassen weder ihr Schwert noch ihre Rüstung fallen.
 
-{% embed url="https://www.youtube.com/watch?v=iBRSuLSFDiE" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/iBRSuLSFDiE" frameborder="0" allowfullscreen></iframe>

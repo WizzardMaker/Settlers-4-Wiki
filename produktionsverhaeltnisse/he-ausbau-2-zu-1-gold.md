@@ -10,12 +10,12 @@ description: by Phottor - ohne "Kohle" Bugfix/Transport+
 **Blau = Trojaner**\
 **Lila = Ubo Trojaner**
 
-{% tabs %}
-{% tab title="HGHG Random" %}
-![](../.gitbook/assets/hghg\_heausbau.png)
-{% endtab %}
 
-{% tab title="Metzel/Buddel" %}
-![](../.gitbook/assets/metzel\_heausbau.png)
-{% endtab %}
-{% endtabs %}
+=== "HGHG Random"
+	<figure><img src="../../assets/hghg_heausbau.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "Metzel/Buddel"
+	<figure><img src="../../assets/metzel_heausbau.png" alt=""><figcaption></figcaption></figure>
+
+

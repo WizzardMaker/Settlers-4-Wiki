@@ -1,8 +1,11 @@
 # S4Editor+
 
-{% embed url="https://www.youtube.com/watch?v=XmongY-LWeA" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/XmongY-LWeA" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
-{% endembed %}
+
+</figcaption>
+            
 
 ## Der Editor
 
@@ -10,14 +13,14 @@ Der Editor+ ist eine neue Version des S4 Karteneditors von MuffinMario. Der S4Ed
 
 Der S4Editor+ ist direkt mit in [Settlers United](../multiplayer/settlers-united.md) integriert.
 
-{% file src="../.gitbook/assets/S4Editor_203.zip" %}
+{% file src="../assets/S4Editor_203.zip" %}
 
-![](../.gitbook/assets/tut.gif)
+<figure><img src="../../assets/tut.gif" alt=""><figcaption></figcaption></figure>
 
 ## Scripts
 
 Zudem kommt der S4Editor+ mit dem Script Editor von MuffinMario, welches es euch ermöglicht ein Lua Script in eure Maps zu integrieren. [Mehr Informationen findet ihr hier](https://app.gitbook.com/s/d5pXI7LyTnJD2C1aSmcw/)
 
-{% file src="../.gitbook/assets/S4Editor_-_ScriptEditor.zip" %}
+{% file src="../assets/S4Editor_-_ScriptEditor.zip" %}
 
-![](../.gitbook/assets/5ma8HFd.png)
+<figure><img src="../../assets/5ma8HFd.png" alt=""><figcaption></figcaption></figure>

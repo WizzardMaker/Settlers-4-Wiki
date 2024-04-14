@@ -1,8 +1,11 @@
 # Transport+ / "Kohlebug"fix
 
-{% embed url="https://www.youtube.com/watch?v=NSWV3QzbWQU" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/NSWV3QzbWQU" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
-{% endembed %}
+
+</figcaption>
+            
 
 ## Was ist der Kohlebug?
 

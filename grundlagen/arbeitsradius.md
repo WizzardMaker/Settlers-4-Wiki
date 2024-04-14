@@ -1,8 +1,11 @@
 # Arbeitsradius
 
-{% embed url="https://www.youtube.com/watch?v=WnfWlJgWQYI" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/WnfWlJgWQYI" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
-{% endembed %}
+
+</figcaption>
+            
 
 ## Tipps für bestimmte Gebäude
 
@@ -10,7 +13,7 @@ Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDC
 * Beachtet bei Steinmetzen ebenfalls die Tür eures Arbeiters - ist diese nach links ausgerichtet, so arbeitet er am effektivsten wenn der Stein links von ihm ist.&#x20;
 * Trojaner sollten unbedingt den Arbeitsradius ihrer Sonnenblumenfarm anpassen und diesen ebenfalls an die "Haustür" verlegen. Diese profitiert sehr stark von der Optimierung.
 
-![Idealer Arbeitsbereich für Sonnenblumenfarmen, bereitgestellt von Laable](<../.gitbook/assets/trojan sunflower farm work radius.png>)
+<figure><img src="../../assets/trojan sunflower farm work radius.png" alt="Idealer Arbeitsbereich für Sonnenblumenfarmen, bereitgestellt von Laable"><figcaption>Idealer Arbeitsbereich für Sonnenblumenfarmen, bereitgestellt von Laable</figcaption></figure>
 
 ## Das schnelle Anpassen mehrerer Gebäude
 

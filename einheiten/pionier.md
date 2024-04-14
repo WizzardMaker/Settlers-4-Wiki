@@ -1,15 +1,15 @@
 # Pionier
 
-![Alle Pioniere der Völker in einer Reihe](../.gitbook/assets/Piolineup.png)
+<figure><img src="../../assets/Piolineup.png" alt="Alle Pioniere der Völker in einer Reihe"><figcaption>Alle Pioniere der Völker in einer Reihe</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut   | Wert     |
-| ---------- | -------- |
-| Gesundheit | 25       |
-| Werkzeug   | Schaufel |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut   | Wert     |
+	| ---------- | -------- |
+	| Gesundheit | 25       |
+	| Werkzeug   | Schaufel |
+
+
 
 ### Überblick
 

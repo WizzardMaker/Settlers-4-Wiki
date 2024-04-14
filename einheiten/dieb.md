@@ -1,14 +1,14 @@
 # Dieb
 
-![Alle Diebe der Völker in einer Reihe](../.gitbook/assets/Dieblineup.png)
+<figure><img src="../../assets/Dieblineup.png" alt="Alle Diebe der Völker in einer Reihe"><figcaption>Alle Diebe der Völker in einer Reihe</figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribut   | Wert |
-| ---------- | ---- |
-| Gesundheit | 20   |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribut   | Wert |
+	| ---------- | ---- |
+	| Gesundheit | 20   |
+
+
 
 ### Überblick
 
@@ -16,7 +16,7 @@ Diebe sind Spezialisten mit der Fähigkeit, Waren aus feindlichen Siedlungen zu 
 
 Um leichter gute Waren zu finden und feindlichen Patrouillen auszuweichen, haben Diebe einen etwa doppelt so großen Sichtradius im Vergleich zu anderen Siedlern.
 
-![Der Sichtradius eines Level 1 Schwertkämpfers verglichen mit dem eines Diebs](../.gitbook/assets/Diebsichtradius.png)
+<figure><img src="../../assets/Diebsichtradius.png" alt="Der Sichtradius eines Level 1 Schwertkämpfers verglichen mit dem eines Diebs"><figcaption>Der Sichtradius eines Level 1 Schwertkämpfers verglichen mit dem eines Diebs</figcaption></figure>
 
 ### Strategie
 
