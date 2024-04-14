@@ -1,8 +1,9 @@
+title: Siedler 4
 nav:
   - ...
-  - grundlagen
-  - einheiten
+  - Grundlagen: basics
+  - Einheiten: units
   - multiplayer
-  - tipps-und-tricks
-  - kampfmechaniken
-  - produktionsverhaeltnisse
+  - Tipps und Tricks: tipps-tricks
+  - Kampfmechaniken: combat-mechanics
+  - Produktionsverhältnisse: productionratios

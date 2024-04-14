@@ -8,7 +8,7 @@ description: by Phottor
 
 (aufbauend auf dem sehr guten Video von @SpinniD: [https://www.youtube.com/watch?v=sKXNqzNjd9w](https://www.youtube.com/watch?v=sKXNqzNjd9w)) Es wurde zwar letztens schon fleißig über das Koordinatensystem (hexagonal) diskutiert, aber hier nochmal zur Veranschaulichung ein Bild. Das Beispiel zeigt eine 4x4 große Map, üblich ist 1024x1024.
 
-<figure><img src="../https://media.discordapp.net/attachments/576807103256068102/850485568399343686/unknown.png?width=388\&height=300" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/576807103256068102/850485568399343686/unknown.png?width=388\&height=300" alt=""><figcaption></figcaption></figure>
 
 **1.** Geologen setzen beim Beschildern niemals zwei Schilder an benachbarte Felder (mindestens 1 Feld frei zwischen zwei Schildern, oftmals lassen sie auch 2-3 Felder Abstand). **Ausnahme:** Wenn zwei Geologen direkt nebeneinander stehen und gleichzeitig ihr Schild in den Boden Klopfen, dann und nur dann stehen die Schilder ohne Mindestabstand&#x20;
 
@@ -27,19 +27,19 @@ Zur Veranschaulichung jeweils exemplarisch eins von allen Vorkommen. Das bedeute
 \
 **Achtung:** Meine Aussagen und Formen gelten für eine ungespiegelte Karte. Auf einer gespiegelten Karte verhält es sich im linken Quadranten genauso, in den übrigen Quadranten werden die Vorkommen gespiegelt und haben dementsprechend eine leicht andere Form. Auch wird der Teil gespiegelt, wo sich Vorkommen überschneiden: das rechte untere Vorkommen kann auf einer gespiegelten Hälfte das links obere überschreiben.
 
-<figure><img src="../https://media.discordapp.net/attachments/576807103256068102/850486077604364348/unknown.png" alt="Gold"><figcaption>Gold</figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/576807103256068102/850486077604364348/unknown.png" alt="Gold"><figcaption>Gold</figcaption></figure>
 
-<figure><img src="../https://media.discordapp.net/attachments/576807103256068102/850486127903375410/unknown.png" alt="Kohle"><figcaption>Kohle</figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/576807103256068102/850486127903375410/unknown.png" alt="Kohle"><figcaption>Kohle</figcaption></figure>
 
-<figure><img src="../https://media.discordapp.net/attachments/576807103256068102/850486164652818432/unknown.png" alt="Eisen"><figcaption>Eisen</figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/576807103256068102/850486164652818432/unknown.png" alt="Eisen"><figcaption>Eisen</figcaption></figure>
 
-<figure><img src="../https://media.discordapp.net/attachments/576807103256068102/850486195997638656/unknown.png" alt="Stein"><figcaption>Stein</figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/576807103256068102/850486195997638656/unknown.png" alt="Stein"><figcaption>Stein</figcaption></figure>
 
-<figure><img src="../https://media.discordapp.net/attachments/576807103256068102/850486232282955836/unknown.png" alt="Schwefel"><figcaption>Schwefel</figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/576807103256068102/850486232282955836/unknown.png" alt="Schwefel"><figcaption>Schwefel</figcaption></figure>
 
 **4.** Eine Mine die auf die mit 'X' markierte Koordinate gesetzt wird hat den folgenden Arbeitsbereich. Aus diesen 64 Feldern kann der Minenarbeiter fördern. Das bedeutet mit einem maximalen Füllgrad von 15, kann eine einzige Mine maximal 64\*15=960 Ressourcen fördern. Da gegen Ende die Effizienz abnimmt, muss man allerdings ein Hundertfaches der Lieblingsnahrung bereitstellen, um wirklich die letzten 10 Ressourcen rauszukratzen. Der Minenarbeiter kann übrigens auch Felder in seinem Arbeitsbereich bearbeiten, die außerhalb der eigenen Landesgrenze liegen.&#x20;
 
-<figure><img src="../https://media.discordapp.net/attachments/576807103256068102/850486375865778246/unknown.png?width=388\&height=300" alt="Bild"><figcaption>Bild</figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/576807103256068102/850486375865778246/unknown.png?width=388\&height=300" alt="Bild"><figcaption>Bild</figcaption></figure>
 
 **5.** Für eine Lieblingsnahrung macht der Minenarbeiter 10 Minengänge, für falsche Nahrung 2 Minengänge und unmittelbar nach dem Bau der Mine macht er ohne Nahrung kostenlos 10 Minengänge. Bei einem Minengang wählt der Minenarbeiter zufällig (gleichverteilt, innere Schilder werden nicht bevorzugt!) eins der 64 Felder in seinem Arbeitsbereich. Ist das Feld leer, Wiese, Schnee, oder ein Ressourcenvorkommen, welches von dieser Mine nicht gefördert wird, so macht der Minenarbeiter eine 'Leerfahrt' (fördert keine Ressource). Wenn er allerdings ein Schild der richtigen Ressource findet, betrachtet er den Füllgrad. Beträgt dieser >=4, so fördert er eine Ressource. Beträgt der Füllgrad 3, so fördert er zu 75% eine Ressource, zu 25% macht er eine Leerfahrt. Beträgt der Füllgrad 2, so fördert er zu 50% eine Ressource, zu 50% macht er eine Leerfahrt. Beträgt der Füllgrad 1, so fördert er zu 25% eine Ressource, zu 75% macht er eine Leerfahrt. \
 Das bedeutet, dass die anfängliche Effizienz einer Mine auf 2er Schildern (-> Füllgrad 6 bis 10) exakt gleich gut ist, wie eine Mine auf 3er Schildern; allerdings fällt der Füllgrad der 2er Schilder natürlich schneller auf unter 4, weshalb die 2er Mine schneller an Effizienz verliert, als die 3er Mine.&#x20;
@@ -49,6 +49,6 @@ Das bedeutet, dass die anfängliche Effizienz einer Mine auf 2er Schildern (-> F
 **7.** Kombiniert man die Vorkommen aus _3._ mit dem Arbeitsbereich aus _4._ kommt man auf die folgenden optimalen Minenplatzierungen. Für ein Goldvorkommen gibt es 19 Felder (die grünen Baupunkte), um dieses mit einer Mine vollständig zu bearbeiten. Eine Eisen-, Stein- oder Schwefelmine hat 11 solche Felder und eine Kohlemine hat genau 1 solches Feld. Die folgende Grafik gibt grob an, wie viel Effizienzeinbußen man je nach Minenplatzierung macht. \
 **Faustregel:** Nehmt immer einen Baupunkt, auf dem auch ein Goldschildchen steht für eure Goldmine.
 
-<figure><img src="../https://media.discordapp.net/attachments/576807103256068102/855054461772234772/mineplacement.jpg?width=267\&height=300" alt="Bild"><figcaption>Bild</figcaption></figure>
+<figure><img src="https://media.discordapp.net/attachments/576807103256068102/855054461772234772/mineplacement.jpg?width=267\&height=300" alt="Bild"><figcaption>Bild</figcaption></figure>
 
 \
