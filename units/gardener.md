@@ -1,6 +1,6 @@
 # Gardener
 
-<figure><img src="../.gitbook/assets/Gärtnerlineup.png" alt=""><figcaption><p>All gardeners in a row, plus their evil counterpart</p></figcaption></figure>
+<figure><img src="../../assets/Gärtnerlineup.png" alt=""><figcaption><p>All gardeners in a row, plus their evil counterpart</p></figcaption></figure>
 
 | Attribute | Value (Humans \| Dark) |
 | --------- | ---------------------- |

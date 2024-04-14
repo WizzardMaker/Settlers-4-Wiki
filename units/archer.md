@@ -1,6 +1,6 @@
 # Bogenschütze
 
-<figure><img src="../.gitbook/assets/Bogenschützenlineup.png" alt=""><figcaption><p>All archers of all civs, lined up</p></figcaption></figure>
+<figure><img src="../../assets/Bogenschützenlineup.png" alt=""><figcaption><p>All archers of all civs, lined up</p></figcaption></figure>
 
 | Attribute        | Value (L1 \| L2 \| L3 \| Dark) |
 | ---------------- | ------------------------------ |

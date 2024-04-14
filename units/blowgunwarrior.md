@@ -1,36 +1,34 @@
 # Blowgunwarrior
 
-<figure><img src="../.gitbook/assets/Blasilineup.png" alt=""><figcaption><p>Level 1, 2 and 3 blowgunwarriors in a row</p></figcaption></figure>
-
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribute        | Value (L1 \| L2 \| L3)          |
-| ---------------- | ------------------------------- |
-| Health           | 85 \| 125 \| 190                |
-| Damage           | 3 \| 4 \| 5                     |
-| Attack Speed     | 23 Ticks                        |
-| DPS              | 1,8 \| 2,4 \| 3                 |
-| Range            | 5 tiles                         |
-| Freeze-Chance    | \~50% \| \~70% \| \~75-80%      |
-| Armor            | 0                               |
-| Compatible Buffs | Shield, Bloodrush, Invisibility |
-{% endtab %}
-
-{% tab title="UBO" %}
+<figure><img src="../../assets/Blasilineup.png" alt=""><figcaption><p>Level 1, 2 and 3 blowgunwarriors in a row</p></figcaption></figure>
 
 
-| Attribute        | Value (L1 \| L2 \| L3)          |
-| ---------------- | ------------------------------- |
-| Health           | 100 \| 150 \| 210               |
-| Damage           | 6 \| 9 \| 12                    |
-| Attack Speed     | 23 Ticks                        |
-| DPS              | 3,6 \| 5,4 \| 7,2               |
-| Range            | 5 tiles                         |
-| Freeze-Chance    | \~50% \| \~70% \| \~75-80%      |
-| Armor            | 0                               |
-| Compatible Buffs | Shield, Bloodrush, Invisibility |
-{% endtab %}
-{% endtabs %}
+=== "Vanilla"
+	| Attribute        | Value (L1 \| L2 \| L3)          |
+	| ---------------- | ------------------------------- |
+	| Health           | 85 \| 125 \| 190                |
+	| Damage           | 3 \| 4 \| 5                     |
+	| Attack Speed     | 23 Ticks                        |
+	| DPS              | 1,8 \| 2,4 \| 3                 |
+	| Range            | 5 tiles                         |
+	| Freeze-Chance    | \~50% \| \~70% \| \~75-80%      |
+	| Armor            | 0                               |
+	| Compatible Buffs | Shield, Bloodrush, Invisibility |
+
+
+=== "UBO"
+	| Attribute        | Value (L1 \| L2 \| L3)          |
+	| ---------------- | ------------------------------- |
+	| Health           | 100 \| 150 \| 210               |
+	| Damage           | 6 \| 9 \| 12                    |
+	| Attack Speed     | 23 Ticks                        |
+	| DPS              | 3,6 \| 5,4 \| 7,2               |
+	| Range            | 5 tiles                         |
+	| Freeze-Chance    | \~50% \| \~70% \| \~75-80%      |
+	| Armor            | 0                               |
+	| Compatible Buffs | Shield, Bloodrush, Invisibility |
+
+
 
 ### Overview
 

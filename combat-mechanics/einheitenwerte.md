@@ -50,6 +50,6 @@ Range: 5
 * L2 : 40HP, 11dmg
 * L3 : 45HP, 13dmg&#x20;
 
-![](https://media.discordapp.net/attachments/576807103256068102/855118918545047592/unknown.png?width=248\&height=300)
+<figure><img src="../https://media.discordapp.net/attachments/576807103256068102/855118918545047592/unknown.png?width=248\&height=300" alt=""><figcaption></figcaption></figure>
 
 ****

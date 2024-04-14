@@ -1,6 +1,6 @@
 # Thief
 
-<figure><img src="../.gitbook/assets/Dieblineup.png" alt=""><figcaption><p>All thieves in a row</p></figcaption></figure>
+<figure><img src="../../assets/Dieblineup.png" alt=""><figcaption><p>All thieves in a row</p></figcaption></figure>
 
 | Attribute | Value |
 | --------- | ----- |
@@ -12,7 +12,7 @@ Thieves are specialists with the ability to steal goods from an enemy settlement
 
 In order to easily find valuable goods and avoid enemy patrols, thieves have a vision radius about twice as big as that of other units.
 
-<figure><img src="../.gitbook/assets/Diebsichtradius.png" alt=""><figcaption><p>The sight radius of a level 1 swordsman compared with that of a thief.</p></figcaption></figure>
+<figure><img src="../../assets/Diebsichtradius.png" alt=""><figcaption><p>The sight radius of a level 1 swordsman compared with that of a thief.</p></figcaption></figure>
 
 ### Strategy
 

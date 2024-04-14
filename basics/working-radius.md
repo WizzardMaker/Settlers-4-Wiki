@@ -4,9 +4,12 @@ coverY: 0
 
 # Working radius
 
-{% embed url="https://www.youtube.com/watch?v=WnfWlJgWQYI" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/WnfWlJgWQYI" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 Video by [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
-{% endembed %}
+
+</figcaption>
+            
 
 ## Tips for individual buildings
 
@@ -14,7 +17,7 @@ Video by [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCf
 * For stonecutters, pay attention to the door: If it's on the left, it will be most effective if the stone is on the left side of the building as well. Trojan stonecutters are the only ones who have their door on the right side.&#x20;
 * Trojans should move the working radius of their sunflower farms. The easiest way to receive maximum benefits is to look at the default setting and click on the first lower left green spot of the inner ring (see image).&#x20;
 
-![Ideal sunflower farm area, provided by Laable](<../.gitbook/assets/trojan sunflower farm work radius.png>)
+<figure><img src="../../assets/trojan sunflower farm work radius.png" alt="Ideal sunflower farm area, provided by Laable"><figcaption>Ideal sunflower farm area, provided by Laable</figcaption></figure>
 
 ## Quickly adjusting multiple buildings
 

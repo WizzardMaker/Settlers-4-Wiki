@@ -25,31 +25,31 @@ These are the FS-Ticks complied for the most important army constellations.
 _1. Column FS Spikes_ \
 _2. Column Hits per Kill_&#x20;
 
-{% tabs %}
-{% tab title="Swords FS vs. Swords" %}
-**Swords FS vs. Swords**
 
-`25 - 28 - 33 - 38 - 43 - 48 - 53 - 58 - 63 - 68 - 73 - 83 - 88 - 98 - 103 - 118 - 133 - 148`
+=== "Swords FS vs. Swords"
+	**Swords FS vs. Swords**
+	
+	`25 - 28 - 33 - 38 - 43 - 48 - 53 - 58 - 63 - 68 - 73 - 83 - 88 - 98 - 103 - 118 - 133 - 148`
+	
+	`42 - 35 - 30 - 27 - 24 - 21 - 20 - 18 - 17 - 15 - 14 - 13 - 12 - 11 - 10  - 9   - 8   - 7`
 
-`42 - 35 - 30 - 27 - 24 - 21 - 20 - 18 - 17 - 15 - 14 - 13 - 12 - 11 - 10  - 9   - 8   - 7`
-{% endtab %}
 
-{% tab title="Swords FS vs. Archers" %}
-**Swords FS vs. Archers**
+=== "Swords FS vs. Archers"
+	**Swords FS vs. Archers**
+	
+	`25 - 28 - 33 - 38 - 43 - 48 - 53 - 58 - 63 - 68 - 73 - 78 - 88 - 98 - 113 - 133`
+	
+	`32 - 27 - 23 - 20 - 18 - 16 - 15 - 14 - 13 - 12 - 11 - 10 - 9  - 8  - 7   - 6`
 
-`25 - 28 - 33 - 38 - 43 - 48 - 53 - 58 - 63 - 68 - 73 - 78 - 88 - 98 - 113 - 133`
 
-`32 - 27 - 23 - 20 - 18 - 16 - 15 - 14 - 13 - 12 - 11 - 10 - 9  - 8  - 7   - 6`
-{% endtab %}
+=== "Archer FS vs. Archers"
+	**Archer FS vs. Archers (spikes are the same against all other units**
+	
+	`25 - 32 - 44 - 57 - 69 - 81 - 94 - 106 - 119 - 131 - 144`
+	
+	`80 - 54 - 40 - 32 - 27 - 23 - 20 - 18  - 16  - 15  - 14`
 
-{% tab title="Archer FS vs. Archers" %}
-**Archer FS vs. Archers (spikes are the same against all other units**
 
-`25 - 32 - 44 - 57 - 69 - 81 - 94 - 106 - 119 - 131 - 144`
-
-`80 - 54 - 40 - 32 - 27 - 23 - 20 - 18  - 16  - 15  - 14`
-{% endtab %}
-{% endtabs %}
 
 The hits per kill indicate that archers gain about 11% in terms of strength when making the jump from 106 to 119 fighting strength, while the jump from 119 to 132 only equals an increase about 6%. This should be kept in mind when noting that a player has an addition FS Spike compared to another.
 
@@ -57,7 +57,7 @@ The hits per kill indicate that archers gain about 11% in terms of strength when
 
 This table contains all the FS-Spikes for all non-special units. Do note that due to the odd rounding as noted above, some of these values are off by one point.
 
-![by Nightfever221](../.gitbook/assets/table.png)
+<figure><img src="../../assets/table.png" alt="by Nightfever221"><figcaption>by Nightfever221</figcaption></figure>
 
 ## FS Table for special units (not yet available)
 

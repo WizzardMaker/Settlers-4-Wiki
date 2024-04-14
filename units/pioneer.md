@@ -1,6 +1,6 @@
 # Pioneer
 
-<figure><img src="../.gitbook/assets/Piolineup.png" alt=""><figcaption><p>All pioneers in a row</p></figcaption></figure>
+<figure><img src="../../assets/Piolineup.png" alt=""><figcaption><p>All pioneers in a row</p></figcaption></figure>
 
 | Attribute | Value  |
 | --------- | ------ |

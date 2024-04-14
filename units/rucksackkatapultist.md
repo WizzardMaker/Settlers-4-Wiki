@@ -1,26 +1,26 @@
 # Backpack Catapultist
 
-<figure><img src="../.gitbook/assets/Rucksacklineup.png" alt=""><figcaption><p>Level 1, 2 and 3 backpack catapultists in a row.</p></figcaption></figure>
+<figure><img src="../../assets/Rucksacklineup.png" alt=""><figcaption><p>Level 1, 2 and 3 backpack catapultists in a row.</p></figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribute        | Value (L1 \| L2 \| L3)          |
-| ---------------- | ------------------------------- |
-| Health           | 30 \| 40 \| 45                  |
-| Damage           | 8 \| 11 \| 13                   |
-| Attack Speed     | 30 Ticks                        |
-| DPS              | 3,7 \| 5,1 \| 6                 |
-| Range            | 8 Tiles                         |
-| Armor            | 0                               |
-| Compatible Buffs | Shield, Bloodrush, Invisibility |
-{% endtab %}
-{% endtabs %}
+
+=== "Vanilla"
+	| Attribute        | Value (L1 \| L2 \| L3)          |
+	| ---------------- | ------------------------------- |
+	| Health           | 30 \| 40 \| 45                  |
+	| Damage           | 8 \| 11 \| 13                   |
+	| Attack Speed     | 30 Ticks                        |
+	| DPS              | 3,7 \| 5,1 \| 6                 |
+	| Range            | 8 Tiles                         |
+	| Armor            | 0                               |
+	| Compatible Buffs | Shield, Bloodrush, Invisibility |
+
+
 
 ### Overview
 
 Backpack catapultists are the trojan special unit. They are the first and only artillery unit featured in the game - in addition to their listed primary damage, they deal 50% of that damage to every target within a radius of two tiles around the primary target, and 25% to every target within a radius of an additional three tiles. This allows backpack catapultist to deal damage in a generous area of effect and far beyond their primary range. To compensate, they have the lowest health of all soldiers in the game.
 
-<figure><img src="../.gitbook/assets/Flächenschaden Rucksackkatapultist.png" alt=""><figcaption><p>The area of effect visualized.</p></figcaption></figure>
+<figure><img src="../../assets/Flächenschaden Rucksackkatapultist.png" alt=""><figcaption><p>The area of effect visualized.</p></figcaption></figure>
 
 ### Strategy
 

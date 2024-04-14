@@ -1,6 +1,6 @@
 # Buildsite priority
 
-{% embed url="https://youtu.be/Gt26_eF8EB8" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/Gt26_eF8EB8" frameborder="0" allowfullscreen></iframe>
 
 Settlers IV offers players the ability to put individual buildings on a priority queue. Understanding the implications of this ability requires knowledge on how a build site normally operates.
 

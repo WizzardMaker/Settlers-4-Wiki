@@ -1,6 +1,6 @@
 # Squad Leader
 
-<figure><img src="../.gitbook/assets/Hauptmannlineup.png" alt=""><figcaption><p>All Squad Leaders lined up</p></figcaption></figure>
+<figure><img src="../../assets/Hauptmannlineup.png" alt=""><figcaption><p>All Squad Leaders lined up</p></figcaption></figure>
 
 | Attribute        | Value (Dark)                    |
 | ---------------- | ------------------------------- |

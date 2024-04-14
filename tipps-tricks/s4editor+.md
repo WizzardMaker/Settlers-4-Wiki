@@ -1,8 +1,11 @@
 # S4Editor+
 
-{% embed url="https://www.youtube.com/watch?v=XmongY-LWeA" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/XmongY-LWeA" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 Video by [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
-{% endembed %}
+
+</figcaption>
+            
 
 ## The Editor
 
@@ -10,12 +13,12 @@ The Editor+ is a new version of the Settlers IV map editor, created by MuffinMar
 
 The Editor+ is integrated into [Settlers United](../multiplayer/settlers-united.md).
 
-{% file src="../.gitbook/assets/S4Editor_203.zip" %}
+{% file src="../../assets/S4Editor_203.zip" %}
 
-![](../.gitbook/assets/tut.gif)
+<figure><img src="../../assets/tut.gif" alt=""><figcaption></figcaption></figure>
 
 ## Scripts
 
 Additionally, the Editor+ contains a script editor which allows embedding a lua script into your map, removing the need to attach a .txt file to the map download. [Further information on S4 scripting can be found here.](https://app.gitbook.com/s/auUjVOZHHg4G6b8lVuXs/tutorials/readme)
 
-![](../.gitbook/assets/5ma8HFd.png)
+<figure><img src="../../assets/5ma8HFd.png" alt=""><figcaption></figcaption></figure>

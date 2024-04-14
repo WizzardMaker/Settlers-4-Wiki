@@ -1,6 +1,6 @@
 # Saboteur
 
-<figure><img src="../.gitbook/assets/Sabolineup.png" alt=""><figcaption><p>All saboteurs in a row</p></figcaption></figure>
+<figure><img src="../../assets/Sabolineup.png" alt=""><figcaption><p>All saboteurs in a row</p></figcaption></figure>
 
 | Attribute | Value   |
 | --------- | ------- |

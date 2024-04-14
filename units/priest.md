@@ -1,6 +1,6 @@
 # Priest
 
-<figure><img src="../.gitbook/assets/Priesterlineup.png" alt=""><figcaption><p>All priests in a row, as well as the shaman</p></figcaption></figure>
+<figure><img src="../../assets/Priesterlineup.png" alt=""><figcaption><p>All priests in a row, as well as the shaman</p></figcaption></figure>
 
 | Attribute | Value (Human \| Dark) |
 | --------- | --------------------- |

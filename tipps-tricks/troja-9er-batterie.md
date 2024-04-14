@@ -8,13 +8,16 @@ In 2021, it was discovered that the trojan food spell can hit more than just sev
 
 ## Basic principle
 
-{% embed url="https://www.youtube.com/watch?v=0-jZIhZ1VVs" %}
+<iframe style="width: 100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/0-jZIhZ1VVs" frameborder="0" allowfullscreen></iframe>
+<figcaption markdown>
 Tutorial von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDCffwLA)
-{% endembed %}
+
+</figcaption>
+            
 
 ## Different builds
 
-![Masterplan by Phottor](../.gitbook/assets/9er\_Masterbauplan.png)
+<figure><img src="../../assets/9er_Masterbauplan.png" alt="Masterplan by Phottor"><figcaption>Masterplan by Phottor</figcaption></figure>
 
 
 
@@ -28,40 +31,40 @@ Tutorial von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2Q
 
 The build costs can differ depending on whether or not [UBO ](../multiplayer/ultimate-balance-overhaul-ubo.md)is used. The battery functions independently of UBO, however, and can be used in the vanilla game.
 
-{% tabs %}
-{% tab title="6/3" %}
-![](../.gitbook/assets/Bauplan\_6.3\_umbau.png)
-{% endtab %}
 
-{% tab title="7/2" %}
-![](../.gitbook/assets/Bauplan\_7.2.png)
-{% endtab %}
+=== "6/3"
+	<figure><img src="../../assets/Bauplan_6.3_umbau.png" alt=""><figcaption></figcaption></figure>
 
-{% tab title="6/2/1" %}
-![](../.gitbook/assets/Bauplan\_6.2.1\_b.png)
-{% endtab %}
 
-{% tab title="5/3/1" %}
-![](../.gitbook/assets/Bauplan\_5.3.1\_b.png)
-{% endtab %}
+=== "7/2"
+	<figure><img src="../../assets/Bauplan_7.2.png" alt=""><figcaption></figcaption></figure>
 
-{% tab title="5/2/2" %}
-![](../.gitbook/assets/Bauplan\_5.2.2.png)
-{% endtab %}
-{% endtabs %}
+
+=== "6/2/1"
+	<figure><img src="../../assets/Bauplan_6.2.1_b.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "5/3/1"
+	<figure><img src="../../assets/Bauplan_5.3.1_b.png" alt=""><figcaption></figcaption></figure>
+
+
+=== "5/2/2"
+	<figure><img src="../../assets/Bauplan_5.2.2.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Casting spot
 
-![](../.gitbook/assets/Zielmine.png)
+<figure><img src="../../assets/Zielmine.png" alt=""><figcaption></figcaption></figure>
 
 On flat ground, the spell should be targeted onto the yellow spot. As the stonemine used for reference is the center of all the batteries listed here, this applies to all five of them.&#x20;
 
 If the terrain is uneven, the spot can move. Another way to find it is to pay attention when placing the central stone mine. The spot (yellow) is two steps to the upper left of the building hotspot (purple).
 
-![Purple: Mine Hotspot. The yellow spot is located two steps to the upper left, and is the magic spot for this battery.](<../.gitbook/assets/9er Batterie Zauberpunkt edited.png>)
+<figure><img src="../../assets/9er Batterie Zauberpunkt edited.png" alt="Purple: Mine Hotspot. The yellow spot is located two steps to the upper left, and is the magic spot for this battery."><figcaption>Purple: Mine Hotspot. The yellow spot is located two steps to the upper left, and is the magic spot for this battery.</figcaption></figure>
 
 ## Additional tips
 
 For all battery types it is critical that the lower two sulphur mines, which are usually placed first, are perfectly parallel. This is easy to accmplish even with uneven terrain. After the first mine has been placed, the possible build sites shown after selecting the second mine will form a hexagon around the first mine, with clear bends on the left and right. If the second mine is placed on the right side, move two steps down from the right bend, hugging the first mine. If the second mine is placed on the left side, move two steps up from the left bend, again hugging the first mine.
 
-![Placing a sulphur mine on either of the highlighted spots will place it parallel to the first.](<../.gitbook/assets/9er Batterie Schwefelfalz.png>)
+<figure><img src="../../assets/9er Batterie Schwefelfalz.png" alt="Placing a sulphur mine on either of the highlighted spots will place it parallel to the first."><figcaption>Placing a sulphur mine on either of the highlighted spots will place it parallel to the first.</figcaption></figure>

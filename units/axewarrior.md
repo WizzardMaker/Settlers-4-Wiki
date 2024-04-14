@@ -1,32 +1,32 @@
 # Axewarrior
 
-<figure><img src="../.gitbook/assets/Axtilineup.png" alt=""><figcaption><p>Level 1, 2 and 3 axewarriors in a row</p></figcaption></figure>
+<figure><img src="../../assets/Axtilineup.png" alt=""><figcaption><p>Level 1, 2 and 3 axewarriors in a row</p></figcaption></figure>
 
-{% tabs %}
-{% tab title="Vanilla" %}
-| Attribute        | Value (L1 \| L2 \| L3)          |
-| ---------------- | ------------------------------- |
-| Health           | 75 \| 120 \| 175                |
-| Damage           | 24 \| 28 \| 32                  |
-| Attack Speed     | 25 Ticks                        |
-| DPS              | 13,7 \| 16,1 \| 18,3            |
-| Range            | 2 tiles                         |
-| Armor            | 0                               |
-| Compatible Buffs | Shield, Bloodrush, Invisibility |
-{% endtab %}
 
-{% tab title="UBO" %}
-| Attribute        | Value (L1 \| L2 \| L3)          |
-| ---------------- | ------------------------------- |
-| Health           | 100 \| 170 \| 255               |
-| Damage           | 24 \| 28 \| 32                  |
-| Attack Speed     | 25 Ticks                        |
-| DPS              | 13,7 \| 16,1 \| 18,3            |
-| Range            | 2 tiles                         |
-| Armor            | 0                               |
-| Compatible Buffs | Shield, Bloodrush, Invisibility |
-{% endtab %}
-{% endtabs %}
+=== "Vanilla"
+	| Attribute        | Value (L1 \| L2 \| L3)          |
+	| ---------------- | ------------------------------- |
+	| Health           | 75 \| 120 \| 175                |
+	| Damage           | 24 \| 28 \| 32                  |
+	| Attack Speed     | 25 Ticks                        |
+	| DPS              | 13,7 \| 16,1 \| 18,3            |
+	| Range            | 2 tiles                         |
+	| Armor            | 0                               |
+	| Compatible Buffs | Shield, Bloodrush, Invisibility |
+
+
+=== "UBO"
+	| Attribute        | Value (L1 \| L2 \| L3)          |
+	| ---------------- | ------------------------------- |
+	| Health           | 100 \| 170 \| 255               |
+	| Damage           | 24 \| 28 \| 32                  |
+	| Attack Speed     | 25 Ticks                        |
+	| DPS              | 13,7 \| 16,1 \| 18,3            |
+	| Range            | 2 tiles                         |
+	| Armor            | 0                               |
+	| Compatible Buffs | Shield, Bloodrush, Invisibility |
+
+
 
 ### Overview <a href="#ueberblick" id="ueberblick"></a>
 

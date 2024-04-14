@@ -1,6 +1,6 @@
 # Geologist
 
-<figure><img src="../.gitbook/assets/Geolineup.png" alt=""><figcaption><p>All geologists in a row</p></figcaption></figure>
+<figure><img src="../../assets/Geolineup.png" alt=""><figcaption><p>All geologists in a row</p></figcaption></figure>
 
 | Attribute | Value  |
 | --------- | ------ |

@@ -1,6 +1,6 @@
-# Schwertkämpfer
+# Swordsman
 
-<figure><img src="../.gitbook/assets/Schwertkämpferlineup.png" alt=""><figcaption><p>All swordsmen of all civs, lined up.</p></figcaption></figure>
+<figure><img src="../../assets/Schwertkämpferlineup.png" alt=""><figcaption><p>All swordsmen of all civs, lined up.</p></figcaption></figure>
 
 | Attribute        | Value (L1 \| L2 \| L3 \| Dark)  |
 | ---------------- | ------------------------------- |
