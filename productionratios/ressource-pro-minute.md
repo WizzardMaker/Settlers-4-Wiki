@@ -6,10 +6,14 @@ description: by Phottor
 
 Denotes how many resources are processed per minute by each building.
 
-**Red = Romans**\
-**Green = Vikings**\
-**Yellow = Mayans**\
-**Blue = Trojans**\
+**Red = Romans**
+
+**Green = Vikings**
+
+**Yellow = Mayans**
+
+**Blue = Trojans**
+
 **Purple = UBO Trojans**
 
 

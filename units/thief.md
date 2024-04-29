@@ -18,7 +18,8 @@ In order to easily find valuable goods and avoid enemy patrols, thieves have a v
 
 Thieves possess a disguise ability that makes them look, to an enemy player, like their own pioneers if observed outside of a settlement, or like their own carriers inside a settlement. Thieves are decloaked if a military unit comes too close.
 
-Enemy thieves can be difficult to spot. Finding them requires a feel for how carriers normally act, in order to be able to tell when a carrier acts unusually. If a thiev picks up a tool that is currently being requested for a job (like a farmer), they can also give themselves away by trying to take the tool somewhere instead of taking the job.\
+Enemy thieves can be difficult to spot. Finding them requires a feel for how carriers normally act, in order to be able to tell when a carrier acts unusually. If a thiev picks up a tool that is currently being requested for a job (like a farmer), they can also give themselves away by trying to take the tool somewhere instead of taking the job.
+
 Toolsmiths and tool storages are popular targets for thieves, which is why a soldier should be placed there.
 
 Regardless of their cloaking and ability to steal, their increased vision radius also makes them excellent scouts.

@@ -38,4 +38,5 @@ For a gold deposit, there are 19 tiles where a mine can fully encompass it. For 
 
 <figure><img src="../https://media.discordapp.net/attachments/576807103256068102/855054461772234772/mineplacement.jpg?width=267\&height=300" alt="Bild"><figcaption>Bild</figcaption></figure>
 
-\
+
+

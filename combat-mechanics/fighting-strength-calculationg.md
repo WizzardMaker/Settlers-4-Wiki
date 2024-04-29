@@ -29,9 +29,12 @@ Offensive fighting strength is determined by the following factors:
 
 `FS = ATK*100//256`
 
-STONE, WOOD, GOLD = resources used in regular buildings\
-EYECATCHERTSTONE, EYECATCHERWOOD, EYECATCHERGOLD = resources used in eyecatchers\
-START = Starting value determined by player count\
+STONE, WOOD, GOLD = resources used in regular buildings
+
+EYECATCHERTSTONE, EYECATCHERWOOD, EYECATCHERGOLD = resources used in eyecatchers
+
+START = Starting value determined by player count
+
 EYECATCHERSETS = Amount of completed eyecatcher sets
 
 ### **Resource values**

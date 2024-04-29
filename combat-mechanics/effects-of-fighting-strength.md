@@ -22,7 +22,8 @@ For example, a Level 3 swordsman dealing 21 or 22 damage needs 10 hits to kill a
 
 These are the FS-Ticks complied for the most important army constellations.
 
-_1. Column FS Spikes_ \
+_1. Column FS Spikes_ 
+
 _2. Column Hits per Kill_&#x20;
 
 

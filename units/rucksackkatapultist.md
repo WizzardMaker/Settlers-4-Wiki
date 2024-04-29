@@ -31,6 +31,8 @@ Against melee units, backpack catapultist benefit the more enemy soldiers are co
 ### Trivia
 
 * Despite not being melee units, backpack catapultists can benefit from the viking's bloodrush spell.
-* Backpack catapultists are theoretically a contender for the highest possible damage per attack. With maximized fighting strength and the squad leader bonus, their base damage increases to 21,45. With bloodrush, this increases to 42,9, which would be rounded up to 43. If every possible tile around the primary target contained an enemy unit, each attack would deal 18\*21=378 additionall damage for the inner ring and 72\*10=720 for the outher ring. This results in a maximum damage of 43+378+720 = 1141. \
-  \
+* Backpack catapultists are theoretically a contender for the highest possible damage per attack. With maximized fighting strength and the squad leader bonus, their base damage increases to 21,45. With bloodrush, this increases to 42,9, which would be rounded up to 43. If every possible tile around the primary target contained an enemy unit, each attack would deal 18\*21=378 additionall damage for the inner ring and 72\*10=720 for the outher ring. This results in a maximum damage of 43+378+720 = 1141. 
+
+  
+
   In practice, this value is unachievable, however, as settlers who are not currently doing a particular task (including fighting) attempt to maintain a minimum distance of one tile in each direction to all other settlers.

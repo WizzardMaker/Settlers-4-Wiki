@@ -6,10 +6,14 @@ description: by Phottor
 
 This table denotes how many game ticks each building needs to produce on resource. 845 ticks equal one minute.
 
-**Red = Romans**\
-**Green = Vikings**\
-**Yellow = Mayans**\
-**Blue = Trojans**\
+**Red = Romans**
+
+**Green = Vikings**
+
+**Yellow = Mayans**
+
+**Blue = Trojans**
+
 **Purple = UBO Trojans**
 
 

@@ -23,4 +23,5 @@ For Settlers IV, Settlers United can also handle the download and setup of the [
 
 The client can also automatically download custom maps for both games from a shared library - for multiplayer maps, this also ensures that all players are on the latest version and have the map installed correctly.
 
-More information as well as the download can be found [here](https://settlers-united.com/de/).\
+More information as well as the download can be found [here](https://settlers-united.com/de/).
+

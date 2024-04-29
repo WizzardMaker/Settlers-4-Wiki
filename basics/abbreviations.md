@@ -18,7 +18,8 @@ Buddel-maps are a niche similar to Metzel. Unlike Metzel, Diggers are required t
 
 The abbreviations HGHG and HGLG refer to two different kinds of random maps. HG stands for "high goods" and LG for "low goods". The first part of the abbreviation concerns the amount of resources found on the map, while the second refers to the amount of goods each player starts with.&#x20;
 
-**HGLG**: High resources and low starting goods \
+**HGLG**: High resources and low starting goods 
+
 **HGHG**: High resources and high starting goods
 
 Currently, HGHG is the most played gamemode found in Settlers IV, usually played with a peacetime of 60 minutes (HGHG60).&#x20;

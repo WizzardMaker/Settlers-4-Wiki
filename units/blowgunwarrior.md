@@ -36,7 +36,8 @@ Blowgunwarriors are the mayan special unit. They are ranged unit similar to arch
 
 ### Strategy
 
-Theoretically, blowgunwarriors can supplement both swordsmen and archers. In practice, however, their increased health compared to archers is not enough to mitigate the lower range - archers can have several rows fight, while blowgunwarriors can only fight with one row much later.\
+Theoretically, blowgunwarriors can supplement both swordsmen and archers. In practice, however, their increased health compared to archers is not enough to mitigate the lower range - archers can have several rows fight, while blowgunwarriors can only fight with one row much later.
+
 Against swordsmen and axewarriors, their firepower is simply insufficient to contend with the high health pools of these units.
 
 UBO significantly increases the damage of blowgunwarriors to 150% of an equivalent archer. Due to their lower range, archers and backpack catapultists are still hard counters, but blowgunwarriors can now be a useful counter against melee units.

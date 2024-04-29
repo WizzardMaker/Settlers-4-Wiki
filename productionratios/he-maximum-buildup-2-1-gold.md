@@ -4,10 +4,14 @@ description: by Phottor - ohne "Kohle" Bugfix/Transport+
 
 # HE Maximum Buildup (2:1 Gold)
 
-**Red = Romans**\
-**Green = Vikings**\
-**Yellow = Mayans**\
-**Blue = Trojans**\
+**Red = Romans**
+
+**Green = Vikings**
+
+**Yellow = Mayans**
+
+**Blue = Trojans**
+
 **Purple = UBO Trojans**
 
 

@@ -4,10 +4,14 @@ description: by Phottor
 
 # Foodindustry
 
-**Red = Romans**\
-**Green = Viking**\
-**Yellow = Mayans**\
-**Blue = Trojans**\
+**Red = Romans**
+
+**Green = Viking**
+
+**Yellow = Mayans**
+
+**Blue = Trojans**
+
 **Purple = UBO Trojans**
 
 ## Food industry overall

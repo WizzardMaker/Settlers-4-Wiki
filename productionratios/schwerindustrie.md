@@ -4,10 +4,14 @@ description: by Phottor
 
 # Metal industry
 
-**Red = Romans**\
-**Green = Vikings**\
-**Yellow = Mayans**\
-**Blue = Trojans**\
+**Red = Romans**
+
+**Green = Vikings**
+
+**Yellow = Mayans**
+
+**Blue = Trojans**
+
 **Purple = UBO Trojans**
 
 ****
