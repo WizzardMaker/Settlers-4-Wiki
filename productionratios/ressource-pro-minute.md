@@ -6,10 +6,14 @@ description: by Phottor
 
 Gibt an, wie viele Ressourcen pro Minute verarbeitet werden.
 
-**Rot = Römer**\
-**Grün = Wikinger**\
-**Gelb = Maya**\
-**Blau = Trojaner**\
+**Rot = Römer**
+
+**Grün = Wikinger**
+
+**Gelb = Maya**
+
+**Blau = Trojaner**
+
 **Lila = Ubo Trojaner**
 
 

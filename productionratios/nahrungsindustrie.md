@@ -4,10 +4,14 @@ description: by Phottor
 
 # Nahrungsindustrie
 
-**Rot = Römer**\
-**Grün = Wikinger**\
-**Gelb = Maya**\
-**Blau = Trojaner**\
+**Rot = Römer**
+
+**Grün = Wikinger**
+
+**Gelb = Maya**
+
+**Blau = Trojaner**
+
 **Lila = Ubo Trojaner**
 
 ## Nahrungsindustrie Allgemein

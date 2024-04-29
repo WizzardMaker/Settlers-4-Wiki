@@ -9,7 +9,8 @@ Video von [UltimateSpinDash](https://www.youtube.com/channel/UCXRXmtOKDS3iX2QJDC
 
 ## Was ist der Kohlebug?
 
-Siedler4 ist zu einer Zeit entstanden, wo herkömmliche Prozessoren noch 500 Mhz hatten. Um diese nicht zu überfordern wurde von den Spieleentwicklern damals ein Limit eingebaut, wieviele Waren eines Typs angefordert werden. \
+Siedler4 ist zu einer Zeit entstanden, wo herkömmliche Prozessoren noch 500 Mhz hatten. Um diese nicht zu überfordern wurde von den Spieleentwicklern damals ein Limit eingebaut, wieviele Waren eines Typs angefordert werden. 
+
 Das Spiel arbeitet intern mit sogenannten "Ticks" - pro Sekunde werden ca. 14 Ticks ausgeführt. Das Limit, welches von den Entwicklern hier eingebaut wurde, sieht nun vor das lediglich eine Einheit pro Warentyp alle 16 Ticks in die Transportwarteschlange (Queue) gegeben werden kann. Dies entspricht Rechnerisch ca. 52 Einheiten, die pro Spielminute so angefordert werden können.
 
 Nur wenige spezielle Waren werden direkt zweimal angefordert - Baustoffe und Kohle. Somit können maximal 104 Kohleeinheiten pro Minute von den Gebäuden angefordert werden. Dies ist auch anders bekannt als der sogenannte [HE Ausbau](../produktionsverhaeltnisse/he-ausbau-2-zu-1-gold.md), bei dem gezielt dieses Limit ausgenutzt wird um die größtmögliche Menge an L3 Soldaten zu produzieren.&#x20;

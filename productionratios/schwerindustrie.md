@@ -4,10 +4,14 @@ description: by Phottor
 
 # Schwerindustrie
 
-**Rot = Römer**\
-**Grün = Wikinger**\
-**Gelb = Maya**\
-**Blau = Trojaner**\
+**Rot = Römer**
+
+**Grün = Wikinger**
+
+**Gelb = Maya**
+
+**Blau = Trojaner**
+
 **Lila = Ubo Trojaner**
 
 ****

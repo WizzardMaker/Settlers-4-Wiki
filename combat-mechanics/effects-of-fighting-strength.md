@@ -24,7 +24,8 @@ Man beachte, dass z.B. ein 21 Schaden Schwertkämpfer und ein 22 Schaden Schwert
 
 für die wichtigsten Armeenkonstellationen aus reinen L3 Einheiten habe ich die KK-Ticks und die Anzahl Hits per Kill übersichtlich zusammengefasst:&#x20;
 
-_1. Zeile KK Spikes_ \
+_1. Zeile KK Spikes_ 
+
 _2. Zeile Hits per Kill_&#x20;
 
 

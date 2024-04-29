@@ -19,7 +19,8 @@ Dunkle Gärtner sind ihr böses Gegenstück, die gesundes Land verseuchen, wenn 
 
 ### Strategie
 
-Gärtner sind sehr verletztlich und sollten nicht unbegleitet in vom dunklen Volk kontrollierte Gebiete geschickt werden.\
+Gärtner sind sehr verletztlich und sollten nicht unbegleitet in vom dunklen Volk kontrollierte Gebiete geschickt werden.
+
 Leider werden Gärtner durch das Trojaneraddon weitgehend überflüssig, da sowohl Pilzfarmen als auch dunkle Tempel problemlos von Priester zerstört werden können. Allerdings sind Gärtner weiterhin die bessere Wahl, wenn es darum geht, größere Gebiete zu säubern.
 
 Dunkle Gärtner agieren teilweise wie Hauptmänner, sodass sich dunkle Krieger in ihrer Gegenwart sammeln. Am Anfang einer Mission wird es daher oft schwer, ihr Treiben zu unterbinden.

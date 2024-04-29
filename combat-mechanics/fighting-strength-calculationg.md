@@ -29,9 +29,12 @@ Offensiv Kampfkraft wird von folgenden Faktoren beeinflusst:&#x20;
 
 `KK = ATK*100//256`
 
-STEIN, HOLZ, GOLD = verbaute Ressourcen\
-ZIERSTEIN, ZIERHOLZ, ZIERGOLD = in Zierobjekten verbaute Ressourcen\
-START = Startwert abhängig von Spielerzahl\
+STEIN, HOLZ, GOLD = verbaute Ressourcen
+
+ZIERSTEIN, ZIERHOLZ, ZIERGOLD = in Zierobjekten verbaute Ressourcen
+
+START = Startwert abhängig von Spielerzahl
+
 ZIERSETS = Anzahl vollständige Zierobjektsets
 
 ### **Ressourcenwerte**
@@ -74,7 +77,8 @@ im Programm werden der Reihe nach diese Rechnungen durchgegangen:
 
 **E**ine Ressource wird in dieser Formel mit 256 multipliziert, durch 1000 dividiert, und bei der Umrechnung in % wieder mit 100 multipliziert und durch 256 dividiert.&#x20;
 
-\
+
+
 **Fazit:** 1 Ressource entspricht 0.1 KK Prozentpunkten! Das bedeutet unter Berücksichtigung der Schwellenpunkte benötigt man im KK-Bereich \[min, max] so viele Ressourcen, um die KK um einen Prozentpunkt zu erhöhen:
 
 * \[25, 50] : 10 Ressourcen pro %-Punkt
@@ -84,7 +88,8 @@ im Programm werden der Reihe nach diese Rechnungen durchgegangen:
 
 
 
-**KK Schub durch komplettes Zierobjekt Set (danke @Ablmeo!)**\
+**KK Schub durch komplettes Zierobjekt Set (danke @Ablmeo!)**
+
 Nicht berücksichtigt sind dabei die Schwellenübergänge. Da zählt nur der Wert bis zur Schwelle und alles darüber nur die Hälfte.
 
 <figure><img src="../../assets/kk.png" alt=""><figcaption></figcaption></figure>

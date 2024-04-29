@@ -6,10 +6,14 @@ description: by Phottor
 
 Gibt an, wie viele Ticks ein Arbeitsgang des Gebäudes braucht, also wie lange für eine Ressource \[845Ticks=1min] benötigt wird.&#x20;
 
-**Rot = Römer**\
-**Grün = Wikinger**\
-**Gelb = Maya**\
-**Blau = Trojaner**\
+**Rot = Römer**
+
+**Grün = Wikinger**
+
+**Gelb = Maya**
+
+**Blau = Trojaner**
+
 **Lila = Ubo Trojaner**
 
 

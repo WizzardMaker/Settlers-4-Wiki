@@ -36,7 +36,8 @@ Blasrohrschützen sind die Spezialeinheit der Mayas. Sie sind Fernkämpfer ähnl
 
 ### Strategie
 
-Theoretisch können Blasrohrschützen sowohl Schwertkämpfer als auch Bogenschützen ergänzen. In der Praxis reicht ihre erhöhte Gesundheit gegen Bogenschützen aber nicht aus, um die geringe Reichweite auszugleichen - die Bogenschützen können mehrere Reihen kämpfen lassen, während die Blasrohrschützen viel zu spät eine einzige Reihe kämpfen lassen können.\
+Theoretisch können Blasrohrschützen sowohl Schwertkämpfer als auch Bogenschützen ergänzen. In der Praxis reicht ihre erhöhte Gesundheit gegen Bogenschützen aber nicht aus, um die geringe Reichweite auszugleichen - die Bogenschützen können mehrere Reihen kämpfen lassen, während die Blasrohrschützen viel zu spät eine einzige Reihe kämpfen lassen können.
+
 Gegen Schwertkämpfer und Axtkämpfer reicht ihre Feuerkraft schlicht nicht aus, um der hohen Gesundheit dieser Einheiten etwas entgegenzusetzen.
 
 UBO erhöht den Schaden von Blasrohrschützen deutlich, auf 150% eines gleichwertigen Bogenschützen. Aufgrund ihrer geringen Reichweite sind Bogenschützen und Rucksackkatapultisten weiterhin hardcounter, aber Blasrohrschützen können hier ein wirksamer Konter gegen Nahkämpfer sein.

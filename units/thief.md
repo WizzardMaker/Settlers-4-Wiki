@@ -22,7 +22,8 @@ Um leichter gute Waren zu finden und feindlichen Patrouillen auszuweichen, haben
 
 Diebe besitzen eine Tarnfähigkeit, die sie außerhalb von Siedlungen für Gegner wie eigene Pioniere aussehen lässt, während sie innerhalb einer Siedlung wie entsprechende Träger aussehen. Diebe werden enttarnt, wenn sie eine Militäreinheit zu nah kommen.
 
-Feindliche Diebe können schwer zu entdecken sein. Sie aufzuspüren erfordert einen Blick für Träger, die sich nicht so verhalten, wie sie es eigentlich müssten. Wenn ein Dieb ein Werkzeug aufhebt, das eigentlich gerade von einem Beruf wie dem Bauer angefordert wird, können sie sich auch dadurch verraten, dass sie das Werkzeug irgendwo hinbringen wollen, statt den Beruf zu ergreifen.\
+Feindliche Diebe können schwer zu entdecken sein. Sie aufzuspüren erfordert einen Blick für Träger, die sich nicht so verhalten, wie sie es eigentlich müssten. Wenn ein Dieb ein Werkzeug aufhebt, das eigentlich gerade von einem Beruf wie dem Bauer angefordert wird, können sie sich auch dadurch verraten, dass sie das Werkzeug irgendwo hinbringen wollen, statt den Beruf zu ergreifen.
+
 Werkezeuglager und Werkzeugschmieden sind beliebte Ziele für Diebe, weshalb dort unbedingt ein Soldat postiert werden sollte.
 
 Unabhängig von ihrer Tarnung und Fähigkeit zum Diebstahl macht ihr vergrößerter Sichtradius sie auch zu hervorragenden Kundschaftern.
